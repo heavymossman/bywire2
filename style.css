@@ -1,3 +1,12 @@
+h1,h2,h3,h4,h5,h6 {
+    font-family:  Montserrat, sans-serif;
+  }
+  body {
+    font-family: 'News Cycle',sans-serif;
+  }
+
+
+
 .black-bk {
     background-color: black;
     color: white;
@@ -31,7 +40,9 @@
 
   
 
-
+.btn-lg {
+    min-width: 200px;;
+}
 
 
 
@@ -232,6 +243,13 @@ a.article:hover {
     }
 }
 
+@media (min-width: 768px) {
+    .hidden-desktop {
+        display: none!important;
+    }
+
+}
+
 .form-control {
     border: 1px solid #232323;
 }
@@ -288,7 +306,28 @@ ul ul a {
     z-index: 1;
 }
 
-.marginSpecial {
-    margin-top: 2rem;
-    margin-left: 8rem;
+@media (min-width: 768px) {
+
+    .marginSpecial {
+        margin-top: 2rem;
+        margin-left: 8rem;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .display-4 {
+        font-size: 2rem;
+        font-weight: 300;
+        line-height: 1.2;
+    }
+
+    h3 {
+        font-size: 1rem;
+    }
+
+}
+
+hr.mobile-fp {
+    margin-top: -0.2rem;
 }
