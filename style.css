@@ -1,0 +1,294 @@
+.black-bk {
+    background-color: black;
+    color: white;
+}
+
+@media (min-width: 1600px) {
+    .container {
+        max-width: 1450px;
+    }
+  }
+
+  .small-text {
+      font-size: 90%;
+  }
+
+  a.white {
+      color: white;
+  }
+
+  .red-text {
+      color: #ff4b4b;
+  }
+
+  .green-text {
+      color: #0dd80d;
+  }
+
+  .white-text {
+        color: white;
+  }
+
+  
+
+
+
+
+
+  /*
+    DEMO STYLE
+*/
+
+
+a,
+a:hover,
+a:focus {
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.navbar {
+    padding: 15px 10px;
+    background: #fff;
+    border: none;
+    border-radius: 0;
+    margin-bottom: 10px;
+}
+
+.navbar-btn {
+    box-shadow: none;
+    outline: none !important;
+    border: none;
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    border-bottom: 1px dashed #ddd;
+    margin: 40px 0;
+}
+
+/* ---------------------------------------------------
+    SIDEBAR STYLE
+----------------------------------------------------- */
+
+.wrapper {
+    display: flex;
+    width: 100%;
+    align-items: stretch;
+}
+
+#sidebar {
+    min-width: 250px;
+    max-width: 250px;
+    background: #1d2023;
+    color: #fff;
+    transition: all 0.3s;
+}
+
+#sidebar.active {
+    margin-left: -250px;
+}
+
+#sidebar .sidebar-header {
+    padding: 20px;
+    background: #1d2023;
+}
+
+#sidebar ul.components {
+    padding: 20px 0;
+    border-bottom: 1px solid #47748b;
+}
+
+#sidebar ul p {
+    color: #fff;
+    padding: 10px;
+}
+
+#sidebar ul li a {
+    padding: 10px;
+    font-size: 1.1em;
+    display: block;
+}
+
+#sidebar ul li a:hover {
+    color: #7386D5;
+    background: #fff;
+}
+
+#sidebar ul li.active>a,
+a[aria-expanded="true"] {
+    color: #fff;
+    background: #6d7fcc;
+}
+
+a[data-toggle="collapse"] {
+    position: relative;
+}
+
+.dropdown-toggle::after {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+}
+
+ul ul a {
+    font-size: 0.9em !important;
+    padding-left: 30px !important;
+    background: #6d7fcc;
+}
+
+ul.CTAs {
+    padding: 20px;
+}
+
+ul.CTAs a {
+    text-align: center;
+    font-size: 0.9em !important;
+    display: block;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+a.download {
+    background: #fff;
+    color: #7386D5;
+}
+
+a.article,
+a.article:hover {
+    background: #6d7fcc !important;
+    color: #fff !important;
+}
+
+/* ---------------------------------------------------
+    CONTENT STYLE
+----------------------------------------------------- */
+
+#content {
+    width: 100%;
+    min-height: 100vh;
+    transition: all 0.3s;
+}
+
+/* ---------------------------------------------------
+    MEDIAQUERIES
+----------------------------------------------------- */
+
+@media (max-width: 768px) {
+    #sidebar {
+        margin-left: 0;
+    }
+    #sidebar.active {
+        margin-left: -250px;
+    }
+    #sidebarCollapse span {
+        display: none;
+    }
+}
+
+
+
+
+
+
+.main {
+    width: 50%;
+    margin: 50px auto;
+}
+
+/* Bootstrap 4 text input with search icon */
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+@media (max-width: 768px) {
+    .hidden-mobile {
+        display: none!important;
+    }
+
+    .mobile-text-center {
+        text-align: center;
+    }
+}
+
+.form-control {
+    border: 1px solid #232323;
+}
+
+#sidebar .sidebar-header {
+    padding: 20px;
+    background: #1d2023;
+}
+
+
+
+
+a.article, a.article:hover {
+    background: #ff4b4b !important;
+    color: #fff !important;
+}
+
+
+#sidebar ul li.active>a, a[aria-expanded="true"] {
+    color: #fff;
+    background: #ff4b4b;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 2px solid rgba(0,0,0,0.7);
+}
+
+.thick-line {
+    margin-top: 1.5rem;
+    border: 2px solid rgba(0,0,0,0.7);
+}
+
+.thin-line {
+    margin-top: 0.2rem;
+    border: 1px solid rgba(0,0,0,0.7);
+}
+
+ul ul a {
+    font-size: 0.9em !important;
+    padding-left: 30px !important;
+    background: #ff4b4bbd;
+}
+
+#fp-hd {
+    height: 50vh;
+    
+}
+
+#fp-hd-text {
+    height: 50vh;
+    z-index: 1;
+}
+
+.marginSpecial {
+    margin-top: 2rem;
+    margin-left: 8rem;
+}
