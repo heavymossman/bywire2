@@ -12,9 +12,9 @@ h1,h2,h3,h4,h5,h6 {
     color: white;
 }
 
-@media (min-width: 1600px) {
+@media (min-width: 1500px) {
     .container {
-        max-width: 1450px;
+        max-width: 1350px;
     }
   }
 
@@ -341,6 +341,6 @@ hr.mobile-fp {
 }
 
 hr.red {
-    margin-top: 1.5rem;
+
     border-top: 1.5px solid rgb(227, 6, 19);
 }
