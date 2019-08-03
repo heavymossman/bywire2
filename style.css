@@ -30,6 +30,14 @@ h1,h2,h3,h4,h5,h6 {
       color: #ff4b4b;
   }
 
+  a.red-text {
+    color: #ff4b4b;
+}
+
+a.black-text {
+    color: #000;
+}
+
   .green-text {
       color: #0dd80d;
   }
@@ -330,4 +338,9 @@ ul ul a {
 
 hr.mobile-fp {
     margin-top: -0.2rem;
+}
+
+hr.red {
+    margin-top: 1.5rem;
+    border-top: 1.5px solid rgb(227, 6, 19);
 }
