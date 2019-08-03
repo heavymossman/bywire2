@@ -1,0 +1,322 @@
+<div class="row mt-5 hidden-mobile">
+
+							<div class="col">
+								<h3><a href="#">BYWIRE NEWS</a></h3>
+							</div>
+	
+							<div class="col-8">
+								<hr />
+							</div>
+	
+							<div class="col-1  text-right" style="font-size: 1.5rem;">
+									<p><a href="#"><i class="fas fa-chevron-left"></i></a>&nbsp;&nbsp;<a href="#"><i class="fas fa-chevron-right"></i></a></p>
+							</div>
+	
+						</div>
+
+						<div class="row mt-4 hidden-desktop">
+
+								<div class="col-5">
+									<h3>BYWIRE NEWS</h3>
+								</div>
+		
+								<div class="col-4">
+									
+								</div>
+		
+								<div class="col-3 text-right">
+									<p><a href="#"><i class="fas fa-chevron-left"></i></a><a href="#"><i class="fas fa-chevron-right"></i></a></p>
+								</div>
+	
+								<div class="col-12"><hr class="mobile-fp" /></div>
+		
+						</div>
+	
+					<div class="row">
+
+						<div class="col-md-3">
+
+							<a href="#"><img src="https://via.placeholder.com/400x500" class="img-fluid"></a>
+
+							<small><a href="#" class="red-text">Politics</a></small>
+								<h6 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h6>
+							
+						</div>
+
+						<div class="col-md-3">
+
+								<a href="#"><img src="https://via.placeholder.com/400x500" class="img-fluid"></a>
+	
+							<small><a href="#" class="red-text">Politics</a></small>
+							<h6 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h6>
+								
+						</div>
+
+						<div class="col-md-3">
+
+								<a href="#"><img src="https://via.placeholder.com/400x500" class="img-fluid"></a>
+		
+							<small><a href="#" class="red-text">Politics</a></small>
+							<h6 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h6>
+									
+						</div>
+						
+						<div class="col-md-3">
+
+								<a href="#"><img src="https://via.placeholder.com/400x500" class="img-fluid"></a>
+			
+							<small><a href="#" class="red-text">Politics</a></small>
+							<h6 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h6>
+								
+						</div>
+
+					</div>
+
+
+
+					<div class="row mt-5 hidden-mobile">
+
+							<div class="col">
+								<h3><a href="#">POLITICS</a></h3>
+							</div>
+	
+							<div class="col-8">
+								<hr />
+							</div>
+	
+							<div class="col-1  text-right" style="font-size: 1.5rem;">
+									<p><a href="#"><i class="fas fa-chevron-left"></i></a>&nbsp;&nbsp;<a href="#"><i class="fas fa-chevron-right"></i></a></p>
+							</div>
+	
+						</div>
+
+						<div class="row mt-4 hidden-desktop">
+
+								<div class="col-5">
+									<h3>POLITICS</h3>
+								</div>
+		
+								<div class="col-4">
+									
+								</div>
+		
+								<div class="col-3 text-right">
+									<p><a href="#"><i class="fas fa-chevron-left"></i></a>&nbsp;&nbsp;<a href="#"><i class="fas fa-chevron-right"></i></a></p>
+								</div>
+	
+								<div class="col-12"><hr class="mobile-fp" /></div>
+		
+						</div>
+	
+					<div class="row">
+
+						<div class="col-md-3">
+
+								<a href="#"><img src="https://via.placeholder.com/400x500" class="img-fluid"></a>
+
+							<small><a href="#" class="red-text">Politics</a></small>
+								<h6 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h6>
+							
+						</div>
+
+						<div class="col-md-3">
+
+							<a href="#"><img src="https://via.placeholder.com/400x500" class="img-fluid"></a>
+	
+							<small><a href="#" class="red-text">Politics</a></small>
+							<h6 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h6>
+								
+						</div>
+
+						<div class="col-md-3">
+
+							<a href="#"><img src="https://via.placeholder.com/400x500" class="img-fluid"></a>
+		
+							<small><a href="#" class="red-text">Politics</a></small>
+							<h6 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h6>
+									
+						</div>
+						
+						<div class="col-md-3">
+
+							<a href="#"><img src="https://via.placeholder.com/400x500" class="img-fluid"></a>
+			
+							<small><a href="#" class="red-text">Politics</a></small>
+							<h6 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h6>
+								
+						</div>
+
+					</div>
+
+
+
+					<div class="row mt-5 hidden-mobile">
+
+							<div class="col">
+								<h3><a href="#">SPORTS</a></h3>
+							</div>
+	
+							<div class="col-8">
+								<hr />
+							</div>
+	
+							<div class="col-1  text-right" style="font-size: 1.5rem;">
+									<p><a href="#"><i class="fas fa-chevron-left"></i></a>&nbsp;&nbsp;<a href="#"><i class="fas fa-chevron-right"></i></a></p>
+							</div>
+	
+						</div>
+
+						<div class="row mt-4 hidden-desktop">
+
+								<div class="col-5">
+									<h3>SPORTS</h3>
+								</div>
+		
+								<div class="col-4">
+									
+								</div>
+		
+								<div class="col-3 text-right">
+									<p><a href="#"><i class="fas fa-chevron-left"></i></a><a href="#"><i class="fas fa-chevron-right"></i></a></p>
+								</div>
+	
+								<div class="col-12"><hr class="mobile-fp" /></div>
+		
+						</div>
+	
+					<div class="row">
+
+						<div class="col-md-3">
+
+							<a href="#"><img src="https://via.placeholder.com/400x500" class="img-fluid"></a>
+
+							<small><a href="#" class="red-text">Politics</a></small>
+								<h6 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h6>
+							
+						</div>
+
+						<div class="col-md-3">
+
+							<a href="#"><img src="https://via.placeholder.com/400x500" class="img-fluid"></a>
+	
+							<small><a href="#" class="red-text">Politics</a></small>
+							<h6 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h6>
+								
+						</div>
+
+						<div class="col-md-3">
+
+							<a href="#"><img src="https://via.placeholder.com/400x500" class="img-fluid"></a>
+		
+							<small><a href="#" class="red-text">Politics</a></small>
+							<h6 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h6>
+									
+						</div>
+						
+						<div class="col-md-3">
+
+							<a href="#"><img src="https://via.placeholder.com/400x500" class="img-fluid"></a>
+			
+							<small><a href="#" class="red-text">Politics</a></small>
+							<h6 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h6>
+								
+						</div>
+
+					</div>
+
+
+
+
+					<div class="row mt-5 hidden-mobile">
+
+							<div class="col">
+								<h3><a href="#">ENTERTAINMENT</a></h3>
+							</div>
+	
+							<div class="col-8">
+								<hr />
+							</div>
+	
+							<div class="col-1  text-right" style="font-size: 1.5rem;">
+									<p><a href="#"><i class="fas fa-chevron-left"></i></a>&nbsp;&nbsp;<a href="#"><i class="fas fa-chevron-right"></i></a></p>
+							</div>
+	
+						</div>
+
+						<div class="row mt-4 hidden-desktop">
+
+								<div class="col-5">
+									<h3>ENTERTAINMENT</h3>
+								</div>
+		
+								<div class="col-4">
+									
+								</div>
+		
+								<div class="col-3 text-right">
+									<p><a href="#"><i class="fas fa-chevron-left"></i></a><a href="#"><i class="fas fa-chevron-right"></i></a></p>
+								</div>
+	
+								<div class="col-12"><hr class="mobile-fp" /></div>
+		
+						</div>
+	
+					<div class="row">
+
+						<div class="col-md-3">
+
+							<a href="#"><img src="https://via.placeholder.com/400x500" class="img-fluid"></a>
+
+							<small><a href="#" class="red-text">Politics</a></small>
+								<h6 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h6>
+							
+						</div>
+
+						<div class="col-md-3">
+
+							<a href="#"><img src="https://via.placeholder.com/400x500" class="img-fluid"></a>
+	
+							<small><a href="#" class="red-text">Politics</a></small>
+							<h6 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h6>
+								
+						</div>
+
+						<div class="col-md-3">
+
+							<a href="#"><img src="https://via.placeholder.com/400x500" class="img-fluid"></a>
+		
+							<small><a href="#" class="red-text">Politics</a></small>
+							<h6 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h6>
+									
+						</div>
+						
+						<div class="col-md-3">
+
+							<a href="#"><img src="https://via.placeholder.com/400x500" class="img-fluid"></a>
+			
+							<small><a href="#" class="red-text">Politics</a></small>
+							<h6 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h6>
+								
+						</div>
+
+					</div>
+
+
+
+
+
+						<div class="row mt-5 hidden-mobile">
+
+								<div class="col">
+									<h3>THE GUARDIAN</h3>
+								</div>
+		
+								<div class="col-8">
+									<hr />
+								</div>
+		
+								<div class="col-1 mt-1 text-right">
+									<p><a href="#">See all</a></p>
+								</div>
+		
+							</div>
