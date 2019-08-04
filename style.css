@@ -1,8 +1,12 @@
 h1,h2,h3,h4,h5,h6 {
-    font-family:  Montserrat, sans-serif;
+    /*font-family:  Montserrat, sans-serif;*/
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+
   }
-  body {
-    font-family: 'News Cycle',sans-serif;
+  body, footer {
+    /*font-family: 'News Cycle',sans-serif;*/
+    font-family: 'Noticia Text', serif;
   }
 
 
@@ -333,6 +337,10 @@ ul ul a {
         line-height: 1.2;
     }
 
+    h1 {
+        font-size: 2rem;
+    }
+
     h3 {
         font-size: 1rem;
     }
@@ -346,4 +354,21 @@ hr.mobile-fp {
 hr.red {
 
     border-top: 1.5px solid rgb(227, 6, 19);
+}
+
+.footer-social-icons {
+    font-size: 5rem;
+    padding-right: 2rem;
+}
+
+footer {
+    background-color: rgb(15, 15, 15);
+    color: #ffffff;
+}
+
+@media (min-width: 768px) {
+    .big-desktop-margin {
+        margin-top: 10rem;
+    }
+
 }
