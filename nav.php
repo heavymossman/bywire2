@@ -17,19 +17,19 @@
 						<ul class="collapse list-unstyled" id="homeSubmenu">
 							
 							<li>
-								<a href="#">FRONT PAGE</a>
+								<a href="index.php">FRONT PAGE</a>
 							</li>
 							<li>
 								<a href="#">BREAKING</a>
 							</li>
 							<li>
-								<a href="#">UK</a>
+								<a href="article.php">UK</a>
 							</li>
 							<li>
-								<a href="#">BYWIRE NEWS</a>
+								<a href="article.php">BYWIRE NEWS</a>
 							</li>
 							<li>
-								<a href="#">POLITICS</a>
+								<a href="article.php">POLITICS</a>
 							</li>
 							<li>
 								<a href="#">CRYPTO</a>

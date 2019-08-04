@@ -4,7 +4,7 @@
 	<?php include 'nav.php';?>
 
 		<?php include 'logo-header.php';?>
-
+		<?php include 'slideshow.php';?>
 
 			
 			
@@ -431,7 +431,7 @@
 					</div>
 
 
-
+				
 
 
 						<div class="row mt-5 hidden-mobile">
@@ -725,6 +725,20 @@
 					</div></div>
 					<!--MASTER CONTAINER-->
 
+
 					
+
+					<div class="callout black-bk">
+  <div class="callout-header"><h1>BREAKING NEWS</h1></div>
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">×</span>
+  <div class="callout-container">
+    <h5><a href="#" class="white">Democrats condemn Trump, white nationalism after two mass shootings. </a></h5>
+        
+    
+    <p><small>Two mass shootings that killed 29 people in Texas and Ohio reverberated across the U.S. political arena on Sunday, with some Democratic presidential candidates accusing President Donald Trump of stoking racial divisions while he said "hate has no place in our country."</small></p>
+    
+</div>
+</div>
+
 
 					<?php include 'footer.php';?>
