@@ -68,7 +68,7 @@
 											<h1 class="display-4">How Tiger Won<br /> The Masters</h1>
 											<p class="lead">Lorem ipsum dolor sit amet,<br>consectetur adipisicing.</p>
 											<br />
-											<button class="btn btn-lg btn-default">Read ></button>
+											<button class="btn btn-lg btn-default">READ <i class="fas fa-chevron-right mr-3"></i></button>
 										</div>
 									</div>
 									<div class="col-xs-4 col-md-2" ></div>

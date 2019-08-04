@@ -176,22 +176,18 @@
 							
 						</div>
 
-						<div class="col-md-3">
-
-								<a href="#"><img src="https://via.placeholder.com/400x500" class="img-fluid"></a>
-	
-							<small><a href="#" class="red-text">Politics</a></small>
-							<h6 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h6>
-								
-						</div>
-
-						<div class="col-md-3">
-
-								<a href="#"><img src="https://via.placeholder.com/400x500" class="img-fluid"></a>
-		
-							<small><a href="#" class="red-text">Politics</a></small>
-							<h6 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h6>
+						<div class="col-md-6 my-2" style="background-image:url(images/hover-tab.png">
+							<div class="row">
+								<div class="col-md-7 black-bk-transparent p-5">
+									<small><a href="#" class="red-text">Politics</a></small>
+									<h5 class="pt-2"><a href="#" class="white-text">No 10 denounces ‘unacceptable’ claims Corbyn is ‘too frail’ to be PM</a></h5>
+									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting. 
+									</p>
 									
+									<button class="btn btn-sm btn-danger">READ <i class="fas fa-chevron-right mr-3"></i></button>
+								</div>
+								<div class="col-md-5"></div>
+							</div>
 						</div>
 						
 						<div class="col-md-3">
