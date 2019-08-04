@@ -31,60 +31,106 @@
 			<!-- Sidebar  -->
 			<nav id="sidebar" class="active">
 				<div class="sidebar-header">
-					<h3>News Menu</h3>
+					<ul class="list-unstyled components">
+							<li>
+									<a href="#"><i class="fas fa-bell"></i> 12 NEW STORIES</a>
+								</li>
+						<li>
+							<a href="#" class="green-text"><img src="images/wb-logo.png" class="img-fluid" > 1463.4524 </a>
+						</li>
+						
+					</ul>
 				</div>
 				<ul class="list-unstyled components">
 					<li class="active">
-						<a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Home</a>
+						<a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">NEWS</a>
 						<ul class="collapse list-unstyled" id="homeSubmenu">
+							
 							<li>
-								<a href="#">Home</a>
+								<a href="#">FRONT PAGE</a>
 							</li>
 							<li>
-								<a href="#">Home 2</a>
+								<a href="#">BREAKING</a>
 							</li>
 							<li>
-								<a href="#">Home 3</a>
+								<a href="#">UK</a>
+							</li>
+							<li>
+								<a href="#">BYWIRE NEWS</a>
+							</li>
+							<li>
+								<a href="#">POLITICS</a>
+							</li>
+							<li>
+								<a href="#">CRYPTO</a>
+							</li>
+							<li>
+								<a href="#">TECH</a>
+							</li>
+							<li>
+								<a href="#">ENTERTAINMENT</a>
+							</li>
+							<li>
+								<a href="#">SPORTS</a>
+							</li>
+							<li>
+								<a href="#">BUSINESS</a>
 							</li>
 						</ul>
 					</li>
+					
 					<li>
-						<a href="#">About</a>
-					</li>
-					<li>
-						<a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Pages</a>
+						<a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">PARTNERS</a>
 						<ul class="collapse list-unstyled" id="pageSubmenu">
 							<li>
-								<a href="#">Page 1</a>
+								<a href="#">BYLINE TIMES</a>
 							</li>
 							<li>
-								<a href="#">Page 2</a>
+								<a href="#">LABOUR BUZZ</a>
 							</li>
 							<li>
-								<a href="#">Page 3</a>
+								<a href="#">THE MEDIA FUND</a>
 							</li>
 						</ul>
 					</li>
 					<li>
-						<a href="#">Portfolio</a>
+						<a href="#">NEWS FEED</a>
 					</li>
 					<li>
-						<a href="#">Contact</a>
+						<a href="#">ABOUT</a>
+					</li>
+					<li>
+						<a href="#">WIREBIT</a>
+					</li>
+					<li>
+						<a href="#">PRIVACY</a>
+					</li>
+					<li>
+						<a href="#">CONTACT</a>
+					</li>
+					<li>
+						<a href="#"><hr /></a>
+					</li>
+					<li>
+						<a href="#">LOGIN/LOGOUT</a>
+					</li>
+					<li>
+						<a href="#">SIGNUP</a>
 					</li>
 				</ul>
 				<ul class="list-unstyled CTAs">
 					<li>
 						<div class="input-group">
-							<input type="text" class="form-control" placeholder="Search ByWire News">
+							<input type="text" class="form-control" placeholder="Search">
 							<div class="input-group-append">
 								<button class="btn btn-default" type="button">
-								<i class="fas fa-search "></i>
+								<i class="fas fa-search"></i>
 								</button>
 							</div>
 						</div>
 					</li>
-					<li>
-						<a href="#" class="article">Back to article</a>
+					<li class="mt-4">
+						<a href="#" class="article sidebarCollapse"><i class="fas fa-times"></i> CLOSE</a>
 					</li>
 				</ul>
 			</nav>
@@ -92,7 +138,7 @@
 			<div id="content">
 				<nav class="navbar navbar-expand-lg navbar-light bg-white">
 					<div class="container">
-						<button type="button" id="sidebarCollapse" class="btn btn-default">
+						<button type="button" class="btn btn-default sidebarCollapse">
 							<i class="fas fa-align-justify"></i>
 							<span></span><!--TOGGLE SELECTION MENU-->
 						</button>
@@ -1034,7 +1080,7 @@
         
         <script type="text/javascript">
 			$(document).ready(function () {
-			    $('#sidebarCollapse').on('click', function () {
+			    $('.sidebarCollapse').on('click', function () {
 			        $('#sidebar').toggleClass('active');
 			    });
 			});
