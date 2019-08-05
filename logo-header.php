@@ -44,7 +44,7 @@
                             </div>
 					<div class="row">
 						<div class="col-md-12 text-center">
-							<a href="#"><img src="images/logo.png" class="img-fluid mx-auto d-block"></a>
+							<a href="index.php"><img src="images/logo.png" class="img-fluid mx-auto d-block"></a>
                         </div>
                         <div class="col-12 text-right hidden-mobile" >
                                 <a href="#" ><img style="margin-top: -5.9rem;" src="images/adnew.png" class="img-fluid float-right"></a>

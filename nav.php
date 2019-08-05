@@ -64,7 +64,10 @@
 						</ul>
 					</li>
 					<li>
-						<a href="#">NEWS FEED</a>
+						<a href="timeline.php">NEWS FEED</a>
+                    </li>
+                    <li>
+						<a href="profile-page.php">PROFILE</a>
 					</li>
 					<li>
 						<a href="#">ABOUT</a>
