@@ -203,6 +203,11 @@ h1,h2,h3,h4,h5,h6 {
     color: white;
 }
 
+.red-bk {
+    background-color: #e30613;
+    color: white;
+}
+
 @media (min-width: 1500px) {
     .container {
         max-width: 1350px;
@@ -428,3 +433,33 @@ footer {
     color: lightgrey;
   }
   
+a.tiny-font {
+    font-size: 80%;
+    color: #696969
+}
+
+.round-borders-left {
+    border-top-left-radius: 5rem;
+    border-bottom-left-radius: 5rem;
+    border: white;
+}
+
+.round-borders-right {
+    border-top-right-radius: 5rem;
+    border-bottom-right-radius:5rem;
+    border: white;
+}
+
+
+.circle{
+    width:40px;
+    height:40px;
+    border-radius:20px;
+    background:#e30613;
+}
+
+.round-borders {
+    border-radius: 5rem;
+    border-radius: 5rem;
+    border: white;
+}

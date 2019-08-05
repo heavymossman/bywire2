@@ -2,7 +2,7 @@
 <div id="content">
 				<nav class="navbar navbar-expand-lg navbar-light bg-white">
 					<div class="container">
-						<button type="button" class="btn btn-default sidebarCollapse">
+						<button type="button" class="btn btn-danger sidebarCollapse">
 							<i class="fas fa-align-justify"></i>
 							<span></span><!--TOGGLE SELECTION MENU-->
 						</button>
