@@ -1,4 +1,4 @@
-<footer class="big-desktop-margin">
+<footer class="mt-5">
 
 <div class="container-fluid">
 

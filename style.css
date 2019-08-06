@@ -476,7 +476,7 @@ a.tiny-font {
 
 
 @media (min-width: 768px) {
-    .mobile-text-right {
+    .desktop-text-right {
         text-align: right;
     }
 }
@@ -488,6 +488,16 @@ a.tiny-font {
 }
 
 .article-body {
-    font-size: 1.2rem;
+    font-size: 1.25rem;
     line-height: 170%;
+}
+
+@media (min-width: 768px) {
+    .footer-margin-neg {
+        margin-top: -15rem;
+    }
+}
+
+.share-icons {
+    color: #9e9e9e;
 }
