@@ -7,9 +7,9 @@
 <div class="row mt-3 p-5 footer-social-icons">
 
     <div class="col-10">
-        <p>	<a href="#"><i class="fab fa-facebook-square"></i></a> 
-            <a href="#"><i class="fab fa-twitter-square"></i></a> 
-            <a href="#"><i class="fab fa-telegram"></i></a> 
+        <p>	<a href="https://www.facebook.com/ByWire.news/" target="_blank"><i class="fab fa-facebook-square"></i></a> 
+            <a href="https://twitter.com/bywirenews" target="_blank"><i class="fab fa-twitter-square"></i></a> 
+            <a href="https://t.me/bywirenews" target="_blank"><i class="fab fa-telegram"></i></a> 
         </p>
     </div>
 
