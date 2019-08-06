@@ -479,11 +479,20 @@ a.tiny-font {
     .desktop-text-right {
         text-align: right;
     }
+    .desktop-margin-5 {
+        margin-top: 3rem!important;
+    }
 }
 
 @media (max-width: 768px) {
     .mobile-text-left {
         text-align: left;
+    }
+    .share-icons {
+        font-size: 2rem;
+    }
+    .mobile-padding-3 {
+        padding: 2rem!important;
     }
 }
 
