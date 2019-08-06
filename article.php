@@ -5,7 +5,7 @@
    <div class="row ">
       <div class="col-1 text-center">
          <p class="mb-0"><small>Reward</small></p>
-         <h1 class=""><img src="images/wirebit icon.png">2</h1>
+         <h1 class=""><img src="images/wirebit-icon-black.png">2</h1>
          <hr class="red">
          <p><small><a href="#" class="tiny-font">About Rewards</a></small></p>
       </div>
@@ -20,27 +20,30 @@
 </div>
 <div class="container-fluid  ">
    <div class="row">
-      <div class="col-1 red-bk round-borders-right hidden-mobile">
+      <div class="col-1 grey-bk round-borders-right hidden-mobile">
       </div>
       <div class="col-1 round-borders px-1 hidden-mobile">
       </div>
       <div class="col-1 round-borders px-1 ">
       </div>
-      <div class="col-md-9 col-xs-10 red-bk round-borders-left">
-         <p class="ml-3 mt-2"><small>Article stored & verified on the blockchain by <a href="#" target="_blank" class="white">theguardian</a> @ block 165454 on 21/08/2019 17:45</small> <img src="images/blockchain.png" class="ml-2 " style="width:5%;"></p>
+      <div class="col-md-9 col-xs-10 grey-bk round-borders-left">
+         <p class="ml-3 mt-2"><small>Article stored & verified on the blockchain by <a href="#" target="_blank" class="white">theguardian</a> @ <a href="#" target="_blank" class="white">block 165454 on 21/08/2019 17:45</a></small> <img src="images/blockchain.png" class="ml-2 " style="width:5%;"></p>
       </div>
    </div>
    <div class="row " >
       <div class="col-1">
       </div>
       <div class="col-1 round-borders text-center hidden-mobile" >
-         <p style="font-size: 6rem; color: #e30613"><i class="fas fa-circle"></i></p>
+         <p style="font-size: 6rem; color: #505050"><i class="fas fa-circle"></i></p>
       </div>
       <div class="col-1 round-borders text-center hidden-mobile">
-         <p style="font-size: 6rem; color: #e30613"><i class="fas fa-circle"></i></p>
+         <p style="font-size: 6rem; color: #505050"><i class="fas fa-circle"></i></p>
       </div>
-      <div class="col-md-9 mt-5">
-         <img src="images/mark.jpg" class="img-fluid">
+      <div class="col-md-7 mt-5">
+         <img src="images/article-demo-image-2000x1500.png" class="img-fluid">
+         <p class="img-creds"><small>The Trump administration called China a currency manipulator after the yuan weakened past the psychologically important level of 7 to the dollar. Here’s what this means for trade talks and the markets. Image: Associated Press
+</small></p>
+
       </div>
    </div>
 </div>
@@ -67,7 +70,7 @@
                   <a href="#"><i class="far fa-angry"></i></a>&nbsp;<a href="#"><i class="far fa-flag"></i>
                   <a>
                </p>
-               <button class="btn btn-bywire btn-lg"><i class="far fa-comment"></i> Read <strong>64</strong> Comments</button>
+               <button class="btn btn-info btn-lg"><i class="far fa-comment"></i> Read <strong>64</strong> Comments</button>
             </div>
          </div>
          <div class="row hidden-desktop">
@@ -187,10 +190,10 @@
    <div class="row mt-3 px-0">
       <div class="col-1 hidden-mobile"></div>
       <div class="col-1 hidden-mobile">
-         <p style="font-size: 6rem; color: #e30613"><i class="fas fa-circle"></i></p>
+         <p style="font-size: 6rem; color: #505050"><i class="fas fa-circle"></i></p>
       </div>
       <div class="col-1 hidden-mobile">
-         <p style="font-size: 6rem; color: #e30613"><i class="fas fa-circle"></i></p>
+         <p style="font-size: 6rem; color: #505050"><i class="fas fa-circle"></i></p>
       </div>
       <div class="col-md-7">
          <div class="row">
@@ -207,7 +210,7 @@
             </div>
             <div class="col-md-3 desktop-margin-5 mobile-text-right mobile-text-left">
                <button class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward Creator</button>
-               <button class="btn btn-bywire btn-lg hidden-desktop mt-3"><i class="far fa-comment"></i> Read <strong>64</strong> Comments</button>
+               <button class="btn btn-info btn-lg hidden-desktop mt-3"><i class="far fa-comment"></i> Read <strong>64</strong> Comments</button>
 
             </div>
             <div class="col-md-1"></div>
@@ -220,17 +223,5 @@
       </div>
    </div>
 </div>
-<div class="container-fluid mt-5">
-   <div class="row">
-      <div class="col-1 red-bk round-borders-right hidden-mobile">
-      </div>
-      <div class="col-1 round-borders px-1 hidden-mobile">
-      </div>
-      <div class="col-1 round-borders px-1 ">
-      </div>
-      <div class="col-md-9 col-xs-10 red-bk round-borders-left">
-         <p class="ml-3 mt-2"><small>Article stored & verified on the blockchain by <a href="#" target="_blank" class="white">theguardian</a> @ block 165454 on 21/08/2019 17:45</small> <img src="images/blockchain.png" class="ml-2 " style="width:5%;"></p>
-      </div>
-   </div>
-</div>
+
 <?php include 'footer.php';?>

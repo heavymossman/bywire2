@@ -3,8 +3,12 @@
 				<div class="sidebar-header">
 					<ul class="list-unstyled components">
 							<li>
-									<a href="#"><i class="fas fa-bell"></i> 12 UNREAD STORIES</a>
-								</li>
+									<a href="#"><i class="far fa-newspaper"></i>  12 Stories</a> 
+                                </li>
+                                <li>
+									<a href="#"><i class="far fa-envelope"></i>  4 Messages</a> 
+                                </li>
+                                
 						<li>
 							<a href="#" class="green-text"><img src="images/wb-logo.png" class="img-fluid" > 1463.4524 </a>
 						</li>
