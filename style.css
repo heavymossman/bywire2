@@ -232,6 +232,10 @@ h1,h2,h3,h4,h5,h6 {
       font-size: 90%;
   }
 
+  .grey-text {
+      color: #909090
+  }
+
   a.white {
       color: white;
   }
@@ -575,4 +579,16 @@ a.tiny-font {
         color: #fff;
         background-color: rgba(227, 6, 19, 0.9);
         border-color: rgba(227, 6, 19, 0.9);
+}
+
+@media (min-width: 576px) {
+    .modal-dialog {
+        max-width: 700px;
+        margin: 1.75rem auto;
+    }
+}
+
+.modal-header {
+    background-color: black;
+    color: white;
 }

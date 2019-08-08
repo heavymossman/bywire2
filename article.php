@@ -62,7 +62,7 @@
             </div>
             <div class="col-md-2">
                <p><small>By <a href="#" class="red-text">Darren Hunt</a></small></p>
-               <button class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward Creator</button>
+               <button type="button" data-toggle="modal" data-target=".exampleModalCenter" class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward</button>
             </div>
             <div class="col-md-2 hidden-mobile">
             </div>
@@ -81,7 +81,7 @@
          </div>
          <div class="col-6">
          <p><small>By <a href="#" class="red-text">Darren Hunt</a></small></p>
-         <button class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward Creator</button>
+         <<button type="button" data-toggle="modal" data-target=".exampleModalCenter" class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward</button>
          </div>
          </div>
       </div>
@@ -211,7 +211,7 @@
                </p>
             </div>
             <div class="col-md-3 desktop-margin-5 mobile-text-right mobile-text-left">
-               <button class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward Creator</button>
+            <button type="button" data-toggle="modal" data-target=".exampleModalCenter" class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward</button>
                <button class="btn btn-info btn-lg hidden-desktop mt-3"><i class="far fa-comment"></i> Read <strong>64</strong> Comments</button>
 
             </div>

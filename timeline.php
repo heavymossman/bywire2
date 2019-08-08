@@ -37,8 +37,8 @@
 			
 				
 					<div class="col-4 p-1 text-right">
-						<p class="mt-3"><button class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward Creator</button></p>
-					</div>
+						<p class="mt-3"><button type="button" data-toggle="modal" data-target=".exampleModalCenter" class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward</button></p>
+                    </div>
                 </div>
                 
 
@@ -68,8 +68,7 @@
                     <div class="col-4 ">
                         
                         <p><small>By <a href="#" class="red-text">Darren Hunt</a></small></p>
-						<p class="mt-2"><button class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward Creator</button></p>
-                    </div>
+                        <p class="mt-3"><button type="button" data-toggle="modal" data-target=".exampleModalCenter" class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward</button></p>                    </div>
                 </div>
                 
 				
@@ -173,8 +172,7 @@
 
 
 <div class="col-4 p-1 text-right">
-    <p class="mt-3"><button class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward Creator</button></p>
-</div>
+<p class="mt-3"><button type="button" data-toggle="modal" data-target=".exampleModalCenter" class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward</button></p></div>
 </div>
 
 
@@ -203,8 +201,7 @@
 
 <div class="col-4 ">
     <p><small>By <a href="#" class="red-text">Darren Hunt</a></small></p>
-    <p class="mt-2"><button class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward Creator</button></p>
-</div>
+    <p class="mt-3"><button type="button" data-toggle="modal" data-target=".exampleModalCenter" class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward</button></p></div>
 </div>
 				<div class="row medium-grey-bk">
 					<div class="col-md-7 p-3">
@@ -300,8 +297,7 @@
 
 
 <div class="col-4 p-1 text-right">
-    <p class="mt-3"><button class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward Creator</button></p>
-</div>
+<p class="mt-3"><button type="button" data-toggle="modal" data-target=".exampleModalCenter" class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward</button></p></div>
 </div>
 
 
@@ -330,8 +326,7 @@
 
 <div class="col-4 ">
     <p><small>By <a href="#" class="red-text">Darren Hunt</a></small></p>
-    <p class="mt-2"><button class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward Creator</button></p>
-</div>
+    <p class="mt-3"><button type="button" data-toggle="modal" data-target=".exampleModalCenter" class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward</button></p></div>
 </div>
 				<div class="row medium-grey-bk">
 					<div class="col-md-7 p-3">
@@ -433,8 +428,7 @@
 
 
 <div class="col-4 p-1 text-right">
-    <p class="mt-3"><button class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward Creator</button></p>
-</div>
+<p class="mt-3"><button type="button" data-toggle="modal" data-target=".exampleModalCenter" class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward</button></p></div>
 </div>
 
 
@@ -463,8 +457,7 @@
 
 <div class="col-4 ">
     <p><small>By <a href="#" class="red-text">Darren Hunt</a></small></p>
-    <p class="mt-2"><button class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward Creator</button></p>
-</div>
+    <p class="mt-3"><button type="button" data-toggle="modal" data-target=".exampleModalCenter" class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward</button></p></div>
 </div>
 				<div class="row medium-grey-bk">
 					<div class="col-md-7 p-3">

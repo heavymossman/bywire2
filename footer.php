@@ -135,6 +135,8 @@
 </div>
 <!--MASTER CONTENT-->
 </div> 
+<?php include 'reward-modal.php';?><!--REWARD MODAL POPUP-->
+
 <!--Wrapper-->
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
