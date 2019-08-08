@@ -530,7 +530,126 @@
 
 
 		</div>
-		<div class="col-md-3">
+		<div class="col-md-3 p-3 ">
+
+
+                    <div class="row">
+                        <div class="col text-center">
+                            <h5>Suggestions to follow</h5>
+                        </div>
+                    </div>                        
+
+                               
+                    <div class="row mt-4 p-3">
+                        <div class="col-4">
+                        <img src="images/profile-logo.png" class="img-fluid rounded-circle" >
+
+                        </div>
+                        <div class="col-8">
+                            <h6 class="pb-1"><a href="#">The Guardian</a></h6>
+                            <button class="btn btn-bywire-clear btn-block">FOLLOW</button>
+                        </div>
+                    </div>       
+
+                    <div class="row mt-4 p-3">
+                        <div class="col-4">
+                        <img src="images/indy.jpg" class="img-fluid rounded-circle" >
+
+                        </div>
+                        <div class="col-8">
+                            <h6 class="pb-1"><a href="#">Indy</a></h6>
+                            <button class="btn btn-bywire-clear btn-block ">FOLLOW</button>
+                        </div>
+                    </div>       
+
+                    <div class="row mt-4 p-3">
+                        <div class="col-4">
+                        <img src="images/cnn.jpg" class="img-fluid rounded-circle" >
+
+                        </div>
+                        <div class="col-8">
+                            <h6 class="pb-1"><a href="#">CNN</a></h6>
+                            <button class="btn btn-bywire-clear btn-block">FOLLOW</button>
+                        </div>
+                    </div>       
+
+                    <div class="row mt-4 p-3">
+                        <div class="col-4">
+                        <img src="images/times.png" class="img-fluid rounded-circle" >
+
+                        </div>
+                        <div class="col-8">
+                            <h6 class="pb-1"><a href="#">The Times</a></h6>
+                            <button class="btn btn-bywire-clear btn-block">FOLLOW</button>
+                        </div>
+                    </div>       
+              
+
+                          
+                    <div class="row mt-5">
+                        <div class="col text-center">
+                            <hr />
+                            <p><a href="#">See all</a></p>
+                        </div>
+                    </div>                   
+
+
+                    <div class="row mt-5">
+                        <div class="col text-center">
+                            <h5>Buzz Blasts</h5>
+                        </div>
+                    </div>    
+                    
+                    <div class="row mt-3">
+                        <div class="col ">
+                            <p>Catching-On: <a href="#">#labour</a> <a href="#">#jeremy-corbyn</a> <a href="#">#election2019~</a> <a href="#">#arsenal</a> <a href="#">#evganthursday</a> <a href="#">#london-stabbings</a> <a href="#">#met-police</a></p>
+                        </div>
+                    </div>    
+                    
+                    <div class="row mt-3 p-3">
+                        <div class="col-4">
+                        <img src="images/jezza.jpg" class="img-fluid rounded-circle" >
+                        
+                        </div>
+                        <div class="col-8">
+                            <h6 class="pb-1"><a href="#">EXCL Jeremy Corbyn calls 'emergency' Shadow Cabinet away day to step up election plans</a></h6>
+                        </div>
+                    </div>    
+                    
+                      
+                    <div class="row mt-3 p-3">
+                        <div class="col-4">
+                        <img src="images/gareth.jpg" class="img-fluid rounded-circle" >
+                        
+                        </div>
+                        <div class="col-8">
+                            <h6 class="pb-1"><a href="#">Gareth Bale omitted from Real Madrid squad again</a></h6>
+                        </div>
+                    </div>    
+
+                      
+                    <div class="row mt-3 p-3">
+                        <div class="col-4">
+                        <img src="images/donald-trump.jpg" class="img-fluid rounded-circle" >
+                        
+                        </div>
+                        <div class="col-8">
+                            <h6 class="pb-1"><a href="#">Don’t Assume Trump’s Approval Rating Can’t Climb Higher. It Already Has.</a></h6>
+                        </div>
+                    </div>    
+
+                      
+                    <div class="row mt-3 p-3">
+                        <div class="col-4">
+                        <img src="images/jb.jpg" class="img-fluid rounded-circle" >
+                        
+                        </div>
+                        <div class="col-8">
+                            <h6 class="pb-1"><a href="#">Justin Bieber is not here for YouTube pranksters who challenge singer to fight</a></h6>
+                        </div>
+                    </div>    
+
+
 			<!--MASTER COLMD-3 DESKTOP-->
 		</div>
 	</div>
