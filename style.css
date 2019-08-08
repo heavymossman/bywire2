@@ -213,6 +213,16 @@ h1,h2,h3,h4,h5,h6 {
     color: white;
 }
 
+.light-grey-bk {
+    background-color: #e4e4e4;
+    color: black;
+}
+
+.medium-grey-bk {
+    background-color: #f5f5f5;
+    color: black;
+}
+
 @media (min-width: 1500px) {
     .container {
         max-width: 1350px;
@@ -530,4 +540,13 @@ a.tiny-font {
 
 .img-creds {
     color: #757575;
+}
+
+.timeline-desktop-margin {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.timeline-desktop-margin-author {
+    margin-top: 5rem;
 }
