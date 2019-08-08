@@ -57,9 +57,11 @@
          <div class="row hidden-mobile">
             <div class="col-md-2">
                <img src="images/profile-logo.png" class="img-fluid">
+               <p class="mt-1 text-center"><small><a href="#" class="red-text">FOLLOW</a></small></p>
+
             </div>
             <div class="col-md-2">
-               <p class="mt-2"><small>By <a href="#" class="red-text">Darren Hunt</a></small></p>
+               <p><small>By <a href="#" class="red-text">Darren Hunt</a></small></p>
                <button class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward Creator</button>
             </div>
             <div class="col-md-2 hidden-mobile">
