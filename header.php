@@ -19,7 +19,7 @@
 			<div class="container">
 				<div class="row pt-3 small-text">
 					<div class="col-md-6 text-left ">
-						<p class="mobile-text-center">BTC <span class="red-text">$9252.0000 <i class="fas fa-caret-down"></i></span> &nbsp;&nbsp;EOS <span class="green-text"> $4.50.00 <i class="fas fa-caret-up"></i></span>&nbsp;&nbsp;Wirebits <span class="green-text"> $0.43 <i class="fas fa-caret-up"></i></span></p>
+						<p class="mobile-text-center">BTC <span class="red-text">$9252.0000 <i class="fas fa-caret-down"></i></span> &nbsp;&nbsp;EOS <span class="green-text"> $4.50.00 <i class="fas fa-caret-up"></i></span>&nbsp;&nbsp;WIRE <span class="green-text"> $0.83 <i class="fas fa-caret-up"></i></span></p>
 					</div>
 					<div class="col-md-6 text-right">
 						<p class="mobile-text-center"><a href="#" class="white">SIGN UP FOR A <strong>FREE</strong> EOS/BYWIRE ACCOUNT</a></p>

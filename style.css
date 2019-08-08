@@ -214,7 +214,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .light-grey-bk {
-    background-color: #e4e4e4;
+    background-color: hsl(0, 15%, 94%);
     color: black;
 }
 
