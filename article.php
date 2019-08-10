@@ -47,7 +47,7 @@
       </div>
    </div>
 </div>
-<div class="container mt-5">
+<div class="container mt-2">
    <div class="row ">
       <div class="col-1 text-center">
       </div>
@@ -55,38 +55,49 @@
       </div>
       <div class="col-md-9">
          <div class="row hidden-mobile">
+
             <div class="col-md-2">
+            <p class="m-0 p-0"> <a href="#"><i class="far fa-question-circle"></i></a></p>
                <img src="images/profile-logo.png" class="img-fluid">
-               <p class="mt-1 text-center"><small><a href="#" class="red-text">FOLLOW</a></small></p>
+               <p class="mt-4 text-center"><button class="btn btn-bywire-clear btn-block btn-sm">FOLLOW</button></p>
 
             </div>
-            <div class="col-md-2">
-               <p><small>By <a href="#" class="red-text">Darren Hunt</a></small></p>
+            <div class="col-md-2 mt-5">
+               <p style="margin-top: 2.21rem;"><small>By <a href="#" class="red-text">Darren Hunt</a></small></p>
                <button type="button" data-toggle="modal" data-target=".exampleModalCenter" class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward</button>
             </div>
-            <div class="col-md-2 hidden-mobile">
+            <div class="col-md-2">
             </div>
-            <div class="col-md-6 desktop-text-right mobile-text-left hidden-mobile">
+            <div class="col-md-6 desktop-text-right mobile-text-left  mt-5">
                <p class="socialcons">
                   <a href="#"><i class="far fa-smile-beam "></i></a>&nbsp;<a href="#"><i class="far fa-surprise"></i></a>&nbsp;<a href="#"><i class="far fa-meh-rolling-eyes"></i></a>&nbsp;<a href="#"><i class="far fa-sad-tear"></i></a>
-                  <a href="#"><i class="far fa-angry"></i></a>&nbsp;<a href="#"><i class="far fa-flag"></i>
+                  <a href="#"><i class="far fa-angry"></i></a></i>
                   <a>
                </p>
-               <button class="btn btn-info btn-lg"><i class="far fa-comment"></i> Read <strong>64</strong> Comments</button>
+               <button class="btn btn-info btn-lg"><i class="far fa-comment"></i> <strong>64</strong> Comments</button>
             </div>
          </div>
+
+
+
+
+
+
+
+
          <div class="row hidden-desktop">
-         <div class="col-6">
+         <div class="col-5">
+         <p class="m-0 p-0"> <a href="#"><i class="far fa-question-circle"></i></a></p>
          <img src="images/profile-logo.png" >
          </div>
-         <div class="col-6">
+         <div class="col-7 mt-5">
          <p><small>By <a href="#" class="red-text">Darren Hunt</a></small></p>
-         <<button type="button" data-toggle="modal" data-target=".exampleModalCenter" class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward</button>
+         <button type="button" data-toggle="modal" data-target=".exampleModalCenter" class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward</button>
          </div>
          </div>
       </div>
    </div>
-   <div class="row my-3">
+   <div class="row mt-1 mb-2">
       <div class="col-2 ">
       </div>
       <div class="col-9 ">
@@ -212,7 +223,7 @@
             </div>
             <div class="col-md-3 desktop-margin-5 mobile-text-right mobile-text-left">
             <button type="button" data-toggle="modal" data-target=".exampleModalCenter" class="btn btn-bywire btn-lg"><img src="images/wb-logo.png"> Reward</button>
-               <button class="btn btn-info btn-lg hidden-desktop mt-3"><i class="far fa-comment"></i> Read <strong>64</strong> Comments</button>
+               <button class="btn btn-info btn-lg hidden-desktop mt-3"><i class="far fa-comment"></i> <strong>64</strong> Comments</button>
 
             </div>
             <div class="col-md-1"></div>
