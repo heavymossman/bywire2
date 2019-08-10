@@ -547,7 +547,7 @@
                         </div>
                         <div class="col-8">
                             <h6 class="pb-1"><a href="#">The Guardian</a></h6>
-                            <button class="btn btn-bywire-clear btn-block">SUBSCRIBE</button>
+                            <button class="btn btn-bywire-clear btn-block">FOLLOW</button>
                         </div>
                     </div>       
 
@@ -558,7 +558,7 @@
                         </div>
                         <div class="col-8">
                             <h6 class="pb-1"><a href="#">Indy</a></h6>
-                            <button class="btn btn-bywire-clear btn-block ">SUBSCRIBE</button>
+                            <button class="btn btn-bywire-clear btn-block ">FOLLOW</button>
                         </div>
                     </div>       
 
@@ -569,7 +569,7 @@
                         </div>
                         <div class="col-8">
                             <h6 class="pb-1"><a href="#">CNN</a></h6>
-                            <button class="btn btn-bywire-clear btn-block">SUBSCRIBE</button>
+                            <button class="btn btn-bywire-clear btn-block">FOLLOW</button>
                         </div>
                     </div>       
 
@@ -580,7 +580,7 @@
                         </div>
                         <div class="col-8">
                             <h6 class="pb-1"><a href="#">The Times</a></h6>
-                            <button class="btn btn-bywire-clear btn-block">SUBSCRIBE</button>
+                            <button class="btn btn-bywire-clear btn-block">FOLLOW</button>
                         </div>
                     </div>       
               
