@@ -121,7 +121,7 @@
 						<button class="btn btn-bywire btn-block">MORE <i class="fas fa-chevron-right ml-2" aria-hidden="true"></i></button>
 					</div>
 					<div class="col-4">
-						<button class="btn btn-primary btn-block">SHARE <i class="fas fa-share ml-2"></i></button>
+						<button class="btn btn-default btn-block">SHARE <i class="fas fa-share ml-2"></i></button>
 					</div>
 					<div class="col-4">
 						<button class="btn btn-info btn-block">COMMENT <i class="far fa-comment ml-2"></i><strong> 64</strong></button>
@@ -132,7 +132,7 @@
 						<button class="btn btn-bywire btn-block">MORE <br/><i class="fas fa-chevron-right ml-2" aria-hidden="true"></i></button>
 					</div>
 					<div class="col-4">
-						<button class="btn btn-primary btn-block">SHARE <br/><i class="fas fa-share ml-2"></i></button>
+						<button class="btn btn-default btn-block">SHARE <br/><i class="fas fa-share ml-2"></i></button>
 					</div>
 					<div class="col-4">
 						<button class="btn btn-info btn-block">COMMENT <br/><i class="far fa-comment ml-2"></i><strong> 64</strong></button>
@@ -245,7 +245,7 @@
 						<button class="btn btn-bywire btn-block">MORE <i class="fas fa-chevron-right ml-2" aria-hidden="true"></i></button>
 					</div>
 					<div class="col-4">
-						<button class="btn btn-primary btn-block">SHARE <i class="fas fa-share ml-2"></i></button>
+						<button class="btn btn-default btn-block">SHARE <i class="fas fa-share ml-2"></i></button>
 					</div>
 					<div class="col-4">
 						<button class="btn btn-info btn-block">COMMENT <i class="far fa-comment ml-2"></i><strong> 64</strong></button>
@@ -256,7 +256,7 @@
 						<button class="btn btn-bywire btn-block">MORE <br/><i class="fas fa-chevron-right ml-2" aria-hidden="true"></i></button>
 					</div>
 					<div class="col-4">
-						<button class="btn btn-primary btn-block">SHARE <br/><i class="fas fa-share ml-2"></i></button>
+						<button class="btn btn-default btn-block">SHARE <br/><i class="fas fa-share ml-2"></i></button>
 					</div>
 					<div class="col-4">
 						<button class="btn btn-info btn-block">COMMENT <br/><i class="far fa-comment ml-2"></i><strong> 64</strong></button>
@@ -374,7 +374,7 @@
 						<button class="btn btn-bywire btn-block">MORE <i class="fas fa-chevron-right ml-2" aria-hidden="true"></i></button>
 					</div>
 					<div class="col-4">
-						<button class="btn btn-primary btn-block">SHARE <i class="fas fa-share ml-2"></i></button>
+						<button class="btn btn-default btn-block">SHARE <i class="fas fa-share ml-2"></i></button>
 					</div>
 					<div class="col-4">
 						<button class="btn btn-info btn-block">COMMENT <i class="far fa-comment ml-2"></i><strong> 64</strong></button>
@@ -385,7 +385,7 @@
 						<button class="btn btn-bywire btn-block">MORE <br/><i class="fas fa-chevron-right ml-2" aria-hidden="true"></i></button>
 					</div>
 					<div class="col-4">
-						<button class="btn btn-primary btn-block">SHARE <br/><i class="fas fa-share ml-2"></i></button>
+						<button class="btn btn-default btn-block">SHARE <br/><i class="fas fa-share ml-2"></i></button>
 					</div>
 					<div class="col-4">
 						<button class="btn btn-info btn-block">COMMENT <br/><i class="far fa-comment ml-2"></i><strong> 64</strong></button>
@@ -504,7 +504,7 @@
 						<button class="btn btn-bywire btn-block">MORE <i class="fas fa-chevron-right ml-2" aria-hidden="true"></i></button>
 					</div>
 					<div class="col-4">
-						<button class="btn btn-primary btn-block">SHARE <i class="fas fa-share ml-2"></i></button>
+						<button class="btn btn-default btn-block">SHARE <i class="fas fa-share ml-2"></i></button>
 					</div>
 					<div class="col-4">
 						<button class="btn btn-info btn-block">COMMENT <i class="far fa-comment ml-2"></i><strong> 64</strong></button>
@@ -515,7 +515,7 @@
 						<button class="btn btn-bywire btn-block">MORE <br/><i class="fas fa-chevron-right ml-2" aria-hidden="true"></i></button>
 					</div>
 					<div class="col-4">
-						<button class="btn btn-primary btn-block">SHARE <br/><i class="fas fa-share ml-2"></i></button>
+						<button class="btn btn-default btn-block">SHARE <br/><i class="fas fa-share ml-2"></i></button>
 					</div>
 					<div class="col-4">
 						<button class="btn btn-info btn-block">COMMENT <br/><i class="far fa-comment ml-2"></i><strong> 64</strong></button>

@@ -203,12 +203,13 @@
 <div class="container-fluid ">
    <div class="row mt-3 px-0">
       <div class="col-1 hidden-mobile"></div>
-      <div class="col-1 hidden-mobile">
+      <!--<div class="col-1 hidden-mobile">
          <p style="font-size: 6rem; color: #505050"><i class="fas fa-circle"></i></p>
       </div>
       <div class="col-1 hidden-mobile">
          <p style="font-size: 6rem; color: #505050"><i class="fas fa-circle"></i></p>
-      </div>
+      </div>-->
+      <div class="col-2 hidden-mobile"></div>
       <div class="col-md-7">
          <div class="row">
             <div class="col hidden-desktop">

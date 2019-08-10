@@ -618,3 +618,17 @@ a.tiny-font {
 a.no-underline:hover {
     text-decoration: none!important;
 }
+
+.btn-default {
+    background-color: grey;
+    color: white;
+}
+
+.btn-default:hover {
+    background-color: rgb(87, 86, 86);
+    color: white;
+}
+
+.btn {
+    border-radius: 0;
+}
