@@ -24,18 +24,6 @@
                     </div>
                 </div>
 
-                <div class="row ">
-                    <div class="col-12 pt-1">
-                        <h1>The Guardian</h1>
-                        <p><a href="#" class="red-text" target="blank">@theguardian<a></p>
-                        <p class="small">The Guardian is a British daily newspaper. It was founded in 1821 as The Manchester Guardian, and changed its name in 1959. 
-                        Along with its sister papers The Observer and The Guardian Weekly, the Guardian is part of the Guardian Media Group, owned by the Scott Trust.</p>
-
-                        <p><small><i class="fas fa-link"></i> <a href="#">www.guardian.com</a></small></p>
-
-                    </div>
-                </div>
-
                 <div class="row my-5">
                     <div class="col-12">
 
@@ -49,13 +37,20 @@
                     </div>
                 </div>
 
-                <div class="row mt-5">
-                    <div class="col-12 grey-bk  px-4 py-3">
-                        <p>Profile verified and stored on the blockchain: <a href="#" target="_blank" class="white">bywire.news</a> 
-                        @ <a href="#" target="_blank" class="white">block 165454 on 21/08/2019 17:45</a></p>
-                        <img src="images/blockchain.png" class="img-fluid">
+                <div class="row ">
+                    <div class="col-12 pt-1">
+                        <h1>The Guardian</h1>
+                        <p><a href="#" class="red-text" target="blank">@theguardian<a></p>
+                        <p class="small">The Guardian is a British daily newspaper. It was founded in 1821 as The Manchester Guardian, and changed its name in 1959. 
+                        Along with its sister papers The Observer and The Guardian Weekly, the Guardian is part of the Guardian Media Group, owned by the Scott Trust.</p>
+
+                        <p><small><i class="fas fa-link"></i> <a href="#">www.guardian.com</a></small></p>
+
                     </div>
                 </div>
+
+               
+
 
                 <div class="row my-5 text-center">
                     <div class="col-6 pr-1 ">
@@ -75,9 +70,36 @@
               
 
                 <div class="row">
-                    <div class="col-12 grey-bk  px-4 py-3">
-                        <h3>Got a story?</h3>
-                        <p>You can send a news tip direct to Guardian journalists here. For stories that need a high level of security including encryption then <a href="#" class="white-text" target="blank">contact us here</a></p>
+                    <div class="col-12">
+
+                    <div class="card my-3">
+							<h5 class="card-header" style="background-color: #000; color: white;"><i class="fas fa-podcast"></i> Got a story?</h5>
+								<div class="card-body" style="background-color: #333333; color: white;">
+									<p class="card-text">You can send a news tip direct to Guardian journalists here. For stories that need a high level of security including encryption then <a href="#" class="white-text" target="blank">contact us here</a></p>
+								</div>
+					</div>
+
+                    </div>
+                </div>
+
+                
+                <div class="row mt-3">
+                    <div class="col-12">
+
+
+                    <div class="card my-3">
+							<h5 class="card-header" style="background-color: #000; color: white;"><i class="fas fa-fingerprint"></i> Blockchain verified</h5>
+								<div class="card-body" style="background-color: #333333; color: white;">
+									<p class="card-text">Profile verified and stored on the blockchain: <a href="#" target="_blank" class="white">bywire.news</a> 
+                        @ <a href="#" target="_blank" class="white">block 165454 on 21/08/2019 17:45</a></p>
+                        <img src="images/blockchain.png" class="img-fluid">
+
+								</div>
+					</div>
+
+
+
+                      
                     </div>
                 </div>
 
@@ -116,7 +138,7 @@
                             <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">ABOUT</div>
                             <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">VIDEOS</div>
                             <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">SEND MESSAGE</div>
-                            </div>
+                    </div>
 
 
 
