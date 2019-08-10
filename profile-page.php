@@ -12,10 +12,10 @@
 	<!--MASTER CONTAINER-->
         <div class="row">
             <!--MASTER ROW-->
-            <div class="col-md-3">
+            <div class="col-md-3 p-4 grey-bk-light">
 
-                <div class="row">
-                    <div class="col-12 p-2">
+                <div class="row ">
+                    <div class="col-12 p-4">
 
                     <p class="m-0 p-0"> <a href="#"><i class="far fa-question-circle"></i></a></p>
                     <img src="images/profile-logo-lg.png" class="img-fluid">
@@ -53,13 +53,13 @@
 
 
                 <div class="row my-5 text-center">
-                    <div class="col-6 pr-1 ">
+                    <div class="col-12">
 
                         <button type="button" data-toggle="modal" data-target=".exampleModalCenter" class="btn btn-bywire btn-block"><img src="images/wb-logo.png"> Reward</button>
 
                     
                     </div>
-                    <div class="col-6 pl-1">
+                    <div class="col-12 mt-3">
 
                         <button type="button" data-toggle="modal" data-target=".exampleModalCenter" class="btn btn-bywire btn-block"><img src="images/wb-logo.png"> AutoWard</button>
 
@@ -112,32 +112,350 @@
 
                     <div class="row">
                         <div class="col-2">
-                            Stories
-                            24
+                            <a href="#" class="no-underline"><p class="mb-0 grey-text small">Stories</p>
+                            <h2>24</h2></a>
                         </div>
                         <div class="col-2">
-                            Reading 
-                            24
+                        <a href="#" class="no-underline"><p class="mb-0 grey-text small">Readers</p>
+                            <h2>1.2m</h2></a>
                         </div>
                         <div class="col-2">
-                            Readers 
-                            24
+                        <a href="#" class="no-underline"><p class="mb-0 grey-text small">Reading</p>
+                            <h2>125</h2></a>
                         </div>
                         <div class="col-4">
                             
                         </div>
-                        <div class="col-2 text-right">
-                            <button class="btn btn-bywire-clear btn-block btn-sm">FOLLOW</button>
+                        <div class="col-2 text-right mt-4">
+                            <button class="btn btn-bywire-clear btn-block btn-sm">SUBSCRIBE</button>
                         </div>
                     </div>
 
-
+                    <hr />
 
                     <div class="tab-content mt-4" id="v-pills-tabContent">
-                            <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">NEWS</div>
-                            <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">ABOUT</div>
-                            <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">VIDEOS</div>
-                            <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">SEND MESSAGE</div>
+                            <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
+                                
+                                <div class="row">
+                                    <div class="col-8">
+                                    <a href="#"><img src="https://via.placeholder.com/600x400" class="img-fluid"></a>
+                                    </div>
+                                    <div class="col-4">
+                                    <div class="row pt-2"><div class="col"><small><a href="#" class="red-text">Politics</a></small></div><div class="col text-right"><small><a href="#"> <i class="far fa-clock"></i>  1h</a></small></div></div>
+							<h3 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h3>
+							<p class="mt-4">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+							
+                                    </div>
+                                </div>
+
+
+                                
+                            <hr class="red my-5" />
+
+                            <div class="row">
+                                <div class="col-4">
+                                    <a href="#"><img src="https://via.placeholder.com/600x400" class="img-fluid"></a>
+                                    <div class="row pt-2"><div class="col"><small><a href="#" class="red-text">Politics</a></small></div><div class="col text-right"><small><a href="#"> <i class="far fa-clock"></i>  1h</a></small></div></div>
+							        <h5 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h5>
+							        <p class="mt-1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+							
+                                </div>
+                                <div class="col-4">
+                                    <a href="#"><img src="https://via.placeholder.com/600x400" class="img-fluid"></a>
+                                    <div class="row pt-2"><div class="col"><small><a href="#" class="red-text">Politics</a></small></div><div class="col text-right"><small><a href="#"> <i class="far fa-clock"></i>  1h</a></small></div></div>
+							        <h5 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h5>
+							        <p class="mt-1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+							
+                                </div>
+                                <div class="col-4">
+                                    <a href="#"><img src="https://via.placeholder.com/600x400" class="img-fluid"></a>
+                                    <div class="row pt-2"><div class="col"><small><a href="#" class="red-text">Politics</a></small></div><div class="col text-right"><small><a href="#"> <i class="far fa-clock"></i>  1h</a></small></div></div>
+							        <h5 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h5>
+							        <p class="mt-1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+							
+                                </div>
+                            </div>
+
+                            <div class="row my-5">
+                                <div class="col-2">
+                                    <a href="#"><strong>Latest</strong> <i class="fas fa-caret-down red-text"></i></a>
+                                </div>
+                                <div class="col-2">
+                                    <a href="#"><strong>Top Rewards</strong> <i class="fas fa-caret-down red-text"></i></a>
+                                </div>
+                                <div class="col-2">
+                                    <a href="#"><strong>Popular</strong> <i class="fas fa-caret-down red-text"></i></a>
+                                </div>
+                                <div class="col-2">
+                                    <a href="#"><strong>Tag</strong> <i class="fas fa-caret-down red-text"></i></a>
+                                </div>
+                                <div class="col-4">
+                                        <div class="input-group">
+                                        <input type="text" class="form-control" placeholder="Search">
+                                        <div class="input-group-append">
+                                            <button class="btn btn-default" type="button">
+                                            <i class="fas fa-search"></i>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row mb-4">
+                                <div class="col-6">
+                                    <a href="#"><img src="https://via.placeholder.com/600x400" class="img-fluid"></a>
+                                    <div class="row pt-2"><div class="col"><small><a href="#" class="red-text">Politics</a></small></div><div class="col text-right"><small><a href="#"> <i class="far fa-clock"></i>  1h</a></small></div></div>
+							        <h5 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h5>
+                                    <hr class="red">
+                                </div>
+                                <div class="col-6">
+                                    <a href="#"><img src="https://via.placeholder.com/600x400" class="img-fluid"></a>
+                                    <div class="row pt-2"><div class="col"><small><a href="#" class="red-text">Politics</a></small></div><div class="col text-right"><small><a href="#"> <i class="far fa-clock"></i>  1h</a></small></div></div>
+							        <h5 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h5>
+                                    <hr class="red">
+                                </div>
+
+                            </div>
+
+                            <div class="row mb-4">
+                                <div class="col-6">
+                                    <a href="#"><img src="https://via.placeholder.com/600x400" class="img-fluid"></a>
+                                    <div class="row pt-2"><div class="col"><small><a href="#" class="red-text">Politics</a></small></div><div class="col text-right"><small><a href="#"> <i class="far fa-clock"></i>  1h</a></small></div></div>
+							        <h5 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h5>
+                                    <hr class="red">
+                                </div>
+                                <div class="col-6">
+                                    <a href="#"><img src="https://via.placeholder.com/600x400" class="img-fluid"></a>
+                                    <div class="row pt-2"><div class="col"><small><a href="#" class="red-text">Politics</a></small></div><div class="col text-right"><small><a href="#"> <i class="far fa-clock"></i>  1h</a></small></div></div>
+							        <h5 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h5>
+                                    <hr class="red">
+                                </div>
+
+                            </div>
+
+                            
+
+
+                            </div><!--PANEL-->
+                            <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+                                
+                                
+                                <div class="row">
+                                        <div class="col-12 p-5">
+                                            <h2 class="mb-5">About The Guardian</h2>
+                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+                                                It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
+                                                It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                                            </p>
+                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+                                                It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
+                                                It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                                            </p>
+                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+                                                It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
+                                                It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                                            </p>
+                                        </div>
+                                </div>
+
+                            </div><!--PANEL-->
+                            <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
+
+                            <div class="row mt-5">
+                                <div class="col-4">
+                                   
+                                <div class="embed-responsive embed-responsive-16by9">
+                                <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pwffVG4zIoc?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+
+
+
+                                    <div class="row pt-2"><div class="col"><small><a href="#" class="red-text">Politics</a></small></div><div class="col text-right"><small><a href="#"> <i class="far fa-clock"></i>  1h</a></small></div></div>
+							        <h5 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h5>
+							        <p class="mt-1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+							
+                                </div>
+                                <div class="col-4">
+                                <div class="embed-responsive embed-responsive-16by9">
+                                <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pwffVG4zIoc?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+
+
+
+                                    <div class="row pt-2"><div class="col"><small><a href="#" class="red-text">Politics</a></small></div><div class="col text-right"><small><a href="#"> <i class="far fa-clock"></i>  1h</a></small></div></div>
+							        <h5 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h5>
+							        <p class="mt-1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+							
+                                </div>
+                                <div class="col-4">
+                                <div class="embed-responsive embed-responsive-16by9">
+                                <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pwffVG4zIoc?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+
+
+
+                                    <div class="row pt-2"><div class="col"><small><a href="#" class="red-text">Politics</a></small></div><div class="col text-right"><small><a href="#"> <i class="far fa-clock"></i>  1h</a></small></div></div>
+							        <h5 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h5>
+							        <p class="mt-1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+							
+                                </div>
+                            </div>
+
+                            <div class="row mt-5">
+                                <div class="col-4">
+                                   
+                                <div class="embed-responsive embed-responsive-16by9">
+                                <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pwffVG4zIoc?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+
+
+
+                                    <div class="row pt-2"><div class="col"><small><a href="#" class="red-text">Politics</a></small></div><div class="col text-right"><small><a href="#"> <i class="far fa-clock"></i>  1h</a></small></div></div>
+							        <h5 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h5>
+							        <p class="mt-1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+							
+                                </div>
+                                <div class="col-4">
+                                <div class="embed-responsive embed-responsive-16by9">
+                                <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pwffVG4zIoc?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+
+
+
+                                    <div class="row pt-2"><div class="col"><small><a href="#" class="red-text">Politics</a></small></div><div class="col text-right"><small><a href="#"> <i class="far fa-clock"></i>  1h</a></small></div></div>
+							        <h5 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h5>
+							        <p class="mt-1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+							
+                                </div>
+                                <div class="col-4">
+                                <div class="embed-responsive embed-responsive-16by9">
+                                <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pwffVG4zIoc?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+
+
+
+                                    <div class="row pt-2"><div class="col"><small><a href="#" class="red-text">Politics</a></small></div><div class="col text-right"><small><a href="#"> <i class="far fa-clock"></i>  1h</a></small></div></div>
+							        <h5 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h5>
+							        <p class="mt-1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+							
+                                </div>
+                            </div>
+
+                            <div class="row mt-5">
+                                <div class="col-4">
+                                   
+                                <div class="embed-responsive embed-responsive-16by9">
+                                <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pwffVG4zIoc?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+
+
+
+                                    <div class="row pt-2"><div class="col"><small><a href="#" class="red-text">Politics</a></small></div><div class="col text-right"><small><a href="#"> <i class="far fa-clock"></i>  1h</a></small></div></div>
+							        <h5 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h5>
+							        <p class="mt-1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+							
+                                </div>
+                                <div class="col-4">
+                                <div class="embed-responsive embed-responsive-16by9">
+                                <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pwffVG4zIoc?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+
+
+
+                                    <div class="row pt-2"><div class="col"><small><a href="#" class="red-text">Politics</a></small></div><div class="col text-right"><small><a href="#"> <i class="far fa-clock"></i>  1h</a></small></div></div>
+							        <h5 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h5>
+							        <p class="mt-1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+							
+                                </div>
+                                <div class="col-4">
+                                <div class="embed-responsive embed-responsive-16by9">
+                                <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pwffVG4zIoc?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+
+
+
+                                    <div class="row pt-2"><div class="col"><small><a href="#" class="red-text">Politics</a></small></div><div class="col text-right"><small><a href="#"> <i class="far fa-clock"></i>  1h</a></small></div></div>
+							        <h5 class="pt-2"><a href="#" class="black-text">Hammond tells Hunt and Johnson there’s no extra cash for pledges in event of no-deal Brexit</a></h5>
+							        <p class="mt-1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+							
+                                </div>
+                            </div>
+
+                            </div>
+                            <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
+
+
+                            <form id="contact-form" method="post" action="contact.php" role="form">
+
+<div class="messages"></div>
+
+<div class="controls">
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="form_name">Firstname *</label>
+                <input id="form_name" type="text" name="name" class="form-control" placeholder="Please enter your firstname *" required="required" data-error="Firstname is required.">
+                <div class="help-block with-errors"></div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="form_lastname">Lastname *</label>
+                <input id="form_lastname" type="text" name="surname" class="form-control" placeholder="Please enter your lastname *" required="required" data-error="Lastname is required.">
+                <div class="help-block with-errors"></div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="form_email">Email *</label>
+                <input id="form_email" type="email" name="email" class="form-control" placeholder="Please enter your email *" required="required" data-error="Valid email is required.">
+                <div class="help-block with-errors"></div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="form_need">Please specify your need *</label>
+                <select id="form_need" name="need" class="form-control" required="required" data-error="Please specify your need.">
+                    <option value=""></option>
+                    <option value="Request quotation">Request quotation</option>
+                    <option value="Request order status">Request order status</option>
+                    <option value="Request copy of an invoice">Request copy of an invoice</option>
+                    <option value="Other">Other</option>
+                </select>
+                <div class="help-block with-errors"></div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form-group">
+                <label for="form_message">Message *</label>
+                <textarea id="form_message" name="message" class="form-control" placeholder="Message for me *" rows="4" required="required" data-error="Please, leave us a message."></textarea>
+                <div class="help-block with-errors"></div>
+            </div>
+        </div>
+        <div class="col-md-12">
+            <input type="submit" class="btn btn-success btn-send" value="Send message">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <p class="text-muted">
+                <strong>*</strong> These fields are required. Contact form template by
+                <a href="https://bootstrapious.com/p/how-to-build-a-working-bootstrap-contact-form" target="_blank">Bootstrapious</a>.</p>
+        </div>
+    </div>
+</div>
+
+</form>
+
+
+
+
+                            </div>
                     </div>
 
 

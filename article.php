@@ -60,7 +60,7 @@
             <div class="col-md-2">
             <p class="m-0 p-0"> <a href="#"><i class="far fa-question-circle"></i></a></p>
                <img src="images/profile-logo.png" class="img-fluid">
-               <p class="mt-4 text-center"><button class="btn btn-bywire-clear btn-block btn-sm">FOLLOW</button></p>
+               <p class="mt-4 text-center"><button class="btn btn-bywire-clear btn-block btn-sm">SUBSCRIBE</button></p>
 
             </div>
             <div class="col-md-2 mt-5">
