@@ -478,9 +478,15 @@ a.tiny-font {
 
 .round-borders {
     border-radius: 6rem;
-    border-radius: 6rem;
     border: white;
 }
+
+.rounded-borders-square {
+    border-radius: 2rem;
+    border: white;
+}
+
+
 
 .btn-bywire {
     color: #fff;
@@ -488,10 +494,17 @@ a.tiny-font {
     border-color: rgba(227, 6, 19, 0.9);
 }
 
+
 .btn-bywire:hover {
     color: #fff;
     background-color: rgb(207, 6, 19);
     border-color: rgb(207, 6, 19);
+}
+
+@media (min-width: 768px) {
+    .btn-bywire {
+        min-width: 151px;
+    }
 }
 
 .socialcons {
@@ -591,4 +604,10 @@ a.tiny-font {
 .modal-header {
     background-color: black;
     color: white;
+}
+
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #5c5c5c;
 }

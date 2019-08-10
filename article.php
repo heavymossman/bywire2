@@ -27,7 +27,8 @@
       <div class="col-1 round-borders px-1 ">
       </div>
       <div class="col-md-9 col-xs-10 grey-bk round-borders-left">
-         <p class="ml-3 mt-2"><small>Article stored & verified on the blockchain by <a href="#" target="_blank" class="white">theguardian</a> @ <a href="#" target="_blank" class="white">block 165454 on 21/08/2019 17:45</a></small> <img src="images/blockchain.png" class="ml-2 " style="width:5%;"></p>
+         <p class="ml-3 mt-2"><small>Article stored & verified on the blockchain by <a href="#" target="_blank" class="white">theguardian</a> 
+         @ <a href="#" target="_blank" class="white">block 165454 on 21/08/2019 17:45</a></small> <img src="images/blockchain.png" class="ml-2 " style="width:5%;"></p>
       </div>
    </div>
    <div class="row " >
