@@ -77,6 +77,9 @@
 						<a href="#">ABOUT</a>
 					</li>
 					<li>
+						<a href="account.php">ACCOUNT</a>
+					</li>
+					<li>
 						<a href="#">WIREBIT</a>
 					</li>
 					<li>
