@@ -263,19 +263,10 @@
                             
                             <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
 
-  <div class="row">
+                            <form>
+  <div class="row mt-5">
   <div class="col-1"></div>
     <div class="col-10">
-
-
-
-
-
-
-
-    <form>
-
-
 
   <div class="form-group row">
     <label for="inputEmail3" class="col-sm-2 col-form-label">Name</label>
@@ -283,112 +274,93 @@
       <input type="text" class="form-control" id="inputEmail3" placeholder="Jane Doe">
     </div>
   </div>
-
-
+  <div class="form-group row">
+    <label for="inputEmail3" class="col-sm-2 col-form-label">Username</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" id="inputEmail3" placeholder="your_username">
+    </div>
+  </div>
 
   <div class="form-group row">
-    <label for="inputPassword3" class="col-sm-2 col-form-label">Username</label>
+    <label for="inputEmail3" class="col-sm-2 col-form-label">Email</label>
     <div class="col-sm-10">
-      <input type="text" class="form-control" id="inputPassword3" placeholder="Username">
+      <input type="email" class="form-control" id="inputEmail3" placeholder="jane_doe@mail.com">
     </div>
   </div>
 
-
-    <div class="form-group row">
-    <label for="inputPassword3" class="col-sm-2 col-form-label">Email</label>
+  <div class="form-group row">
+    <label for="inputEmail3" class="col-sm-2 col-form-label">Mobile</label>
     <div class="col-sm-10">
-      <input type="email" class="form-control" id="inputPassword3" placeholder="jane_doe@mail.com">
+      <input type="number" class="form-control" id="inputEmail3" placeholder="07854 123 456">
     </div>
   </div>
-  
 
-
-    <div class="form-group row">
-    <label for="inputPassword3" class="col-sm-2 col-form-label">Phone</label>
+  <div class="form-group row">
+    <label for="inputEmail3" class="col-sm-2 col-form-label">Mailing List</label>
     <div class="col-sm-10">
-      <input type="text" class="form-control" id="inputPassword3" placeholder="+44(0) 7869 542 123">
-    </div>
-  </div>
-    
-
-    <div class="form-group row">
-    <label for="inputPassword3" class="col-sm-2 col-form-label">Mailing List</label>
-    <div class="col-sm-10">
-
     <div class="form-check form-check-inline">
-  <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
-  <label class="form-check-label" for="inlineCheckbox1">Daily News Updates</label> 
-</div>
-
-<div class="form-check form-check-inline">
   <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
   <label class="form-check-label" for="inlineCheckbox1">Weekly News Updates</label> 
 </div>
 
+<div class="form-check form-check-inline">
+  <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
+  <label class="form-check-label" for="inlineCheckbox1">Daily News Updates</label> 
+</div>
 
 
-    
-    </div>
+</div>
   </div>
-   
+
 
   <div class="form-group row">
-    <label for="inputPassword3" class="col-sm-2 col-form-label">Interests</label>
+    <label for="inputEmail3" class="col-sm-2 col-form-label">Interests</label>
     <div class="col-sm-10">
-      
+
+
     <div class="form-check form-check">
   <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
   <label class="form-check-label" for="inlineCheckbox1">Breaking News</label>
 </div>
+<div class="form-check form-check">
+  <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
+  <label class="form-check-label" for="inlineCheckbox2">Politics</label>
+</div>
 
 <div class="form-check form-check">
-  <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option2">
-  <label class="form-check-label" for="inlineCheckbox1">Crypto News</label>
+  <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
+  <label class="form-check-label" for="inlineCheckbox1">Crypto</label>
+</div>
+<div class="form-check form-check">
+  <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
+  <label class="form-check-label" for="inlineCheckbox2">Tech</label>
 </div>
 
 <div class="form-check form-check">
   <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option3">
-  <label class="form-check-label" for="inlineCheckbox1">Business</label>
-</div>
-
-<div class="form-check form-check">
-  <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option4">
-  <label class="form-check-label" for="inlineCheckbox1">Tech</label>
-</div>
-
-<div class="form-check form-check">
-  <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option5">
   <label class="form-check-label" for="inlineCheckbox1">Entertainment</label>
 </div>
-
 <div class="form-check form-check">
-  <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option6">
-  <label class="form-check-label" for="inlineCheckbox1">Sports</label>
+  <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option4">
+  <label class="form-check-label" for="inlineCheckbox2">Sport</label>
 </div>
 
 <div class="form-check form-check">
-  <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option7">
-  <label class="form-check-label" for="inlineCheckbox1">Politics</label>
-</div>
-
-<div class="form-check form-check">
-  <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option18>
-  <label class="form-check-label" for="inlineCheckbox1">Local News</label>
+  <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option4">
+  <label class="form-check-label" for="inlineCheckbox2">Local News</label>
 </div>
 
 
     </div>
+
+
   </div>
-
-
-
   <div class="form-group row">
-    <label for="inputPassword3" class="col-sm-2 col-form-label"></label>
+    <label for="inputEmail3" class="col-sm-2 col-form-label"></label>
     <div class="col-sm-10">
-    <button type="submit" class="btn btn-primary">Update</button>
+    <button type="submit" class="btn btn-bywire">UPDATE</button>
     </div>
   </div>
-    
 
 </form>
 
@@ -397,7 +369,6 @@
 
 
 
-</div>
     <div class="col-1"></div>
   </div>
 
