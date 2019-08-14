@@ -276,6 +276,19 @@
     <form>
 
 
+    <div class="form-group row">
+    <label for="inputEmail3" class="col-sm-2 col-form-label">Profile Image</label>
+    <div class="col-sm-10">
+    <form>
+  <div class="form-group">
+
+    <input type="file" class="form-control-file" id="exampleFormControlFile1">
+  </div>
+</form>
+    </div>
+  </div>
+
+
 
   <div class="form-group row">
     <label for="inputEmail3" class="col-sm-2 col-form-label">Name</label>
@@ -385,7 +398,7 @@
   <div class="form-group row">
     <label for="inputPassword3" class="col-sm-2 col-form-label"></label>
     <div class="col-sm-10">
-    <button type="submit" class="btn btn-primary">Update</button>
+    <button type="submit" class="btn btn-success">Update</button>
     </div>
   </div>
     
