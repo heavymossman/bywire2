@@ -75,7 +75,7 @@
                   <a href="#"><i class="far fa-angry"></i></a></i>
                   <a>
                </p>
-               <button class="btn btn-info btn-lg"><i class="far fa-comment"></i> <strong>64</strong> Comments</button>
+               <a class="btn btn-info btn-lg" href="comments.php"><i class="far fa-comment"></i> <strong>64</strong> Comments</a>
             </div>
          </div>
 

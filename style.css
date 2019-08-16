@@ -638,3 +638,11 @@ a.no-underline:hover {
     padding: 0.5rem;
     background-color: #f2f2f2;
 }
+
+.comments-bk {
+    background-color: #dedede;
+}
+
+.bigger-font {
+    font-size: larger;
+}
