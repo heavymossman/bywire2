@@ -599,8 +599,76 @@ symbol: 0.00000 WIRE</td>
 
                             <div class="tab-pane fade" id="v-pills-following" role="tabpanel" aria-labelledby="v-pills-following-tab">
 
-                                FOLLOWING
+
+                            <div class="row my-2 account-page-news-items p-3">
+                                   
+                              <div class="col-2">
+                                   <img src="images/profile-logo.png" class="img-fluid rounded-circle" >
+                              </div>
+                              <div class="col-8">
+                                  
+                                       <p><a href="#">@theguardian</a></p>
+                                       <p><small>The Guardian is a British daily newspaper. It was founded in 1821 as The Manchester Guardian, and changed its name in 1959. Along with its sister papers The Observer and The Guardian Weekly, the Guardian is part of the Guardian Media Group, owned by the Scott Trust.</small></p>
+                              </div>
+                              <div class="col-md-2">
+                              <p><button class="btn btn-bywire-clear btn-sm btn-block ">FOLLOWING</button></p>
+                              </div>
                             </div>
+
+
+
+
+                            <div class="row mt-3 account-page-news-items p-3">
+                                   
+                                   <div class="col-2">
+                                        <img src="images/profile-logo.png" class="img-fluid rounded-circle" >
+                                   </div>
+                                   <div class="col-8">
+                                       
+                                            <p><a href="#">@theguardian</a></p>
+                                            <p><small>The Guardian is a British daily newspaper. It was founded in 1821 as The Manchester Guardian, and changed its name in 1959. Along with its sister papers The Observer and The Guardian Weekly, the Guardian is part of the Guardian Media Group, owned by the Scott Trust.</small></p>
+                                   </div>
+                                   <div class="col-md-2">
+                                   <p><button class="btn btn-bywire-clear btn-sm btn-block ">FOLLOWING</button></p>
+                                   </div>
+                                 </div>
+     
+
+                                 <div class="row mt-3 account-page-news-items p-3">
+                                   
+                                   <div class="col-2">
+                                        <img src="images/profile-logo.png" class="img-fluid rounded-circle" >
+                                   </div>
+                                   <div class="col-8">
+                                       
+                                            <p><a href="#">@theguardian</a></p>
+                                            <p><small>The Guardian is a British daily newspaper. It was founded in 1821 as The Manchester Guardian, and changed its name in 1959. Along with its sister papers The Observer and The Guardian Weekly, the Guardian is part of the Guardian Media Group, owned by the Scott Trust.</small></p>
+                                   </div>
+                                   <div class="col-md-2">
+                                   <p><button class="btn btn-bywire-clear btn-sm btn-block ">FOLLOWING</button></p>
+                                   </div>
+                                 </div>
+     
+
+                                 <div class="row mt-3 account-page-news-items p-3">
+                                   
+                                   <div class="col-2">
+                                        <img src="images/profile-logo.png" class="img-fluid rounded-circle" >
+                                   </div>
+                                   <div class="col-8">
+                                       
+                                            <p><a href="#">@theguardian</a></p>
+                                            <p><small>The Guardian is a British daily newspaper. It was founded in 1821 as The Manchester Guardian, and changed its name in 1959. Along with its sister papers The Observer and The Guardian Weekly, the Guardian is part of the Guardian Media Group, owned by the Scott Trust.</small></p>
+                                   </div>
+                                   <div class="col-md-2">
+                                   <p><button class="btn btn-bywire-clear btn-sm btn-block ">FOLLOWING</button></p>
+                                   </div>
+                                 </div>
+     
+
+
+
+                            </div><!--TAB PANEL-->
 
                             <div class="tab-pane fade" id="v-pills-demo" role="tabpanel" aria-labelledby="v-pills-demo-tab">
 
