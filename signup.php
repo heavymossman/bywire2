@@ -30,12 +30,12 @@
   <div class="form-group mt-3">
     <label for="exampleInputEmail1">Telephone</label>
     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+    <small id="emailHelp" class="form-text text-muted">Enter your mobile number.</small>
   </div>
   <div class="form-group mt-3">
     <label for="exampleInputEmail1">Email address</label>
     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+    <small id="emailHelp" class="form-text text-muted">Enter a valid email address</small>
   </div>
   <div class="form-group">
     <label for="exampleInputPassword1">Choose Password</label>
