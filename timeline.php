@@ -89,23 +89,23 @@
 						</div>
 					</div>
 					<div class="col-md-5">
-						<div class="row">
+					<div class="row">
 							<div class="col-12 mt-2">
 								<ul class="nav socialcons-timeline share-icons  pb-2 text-center">
 									<li class="nav-item">
-										<a class="nav-link active " href="#"><i class="far fa-smile-beam "></i></a>
+										<a class="nav-link active " href="#"><i data-toggle="tooltip" title="Love" class="far fa-smile-beam "></i></a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="#"><i class="far fa-surprise"></i></a>
+										<a class="nav-link" href="#"><i data-toggle="tooltip" title="Surprise" class="far fa-surprise"></i></a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="#"> <i class="far fa-meh-rolling-eyes"></i></a>
+										<a class="nav-link" href="#"> <i data-toggle="tooltip" title="Meh"  class="far fa-meh-rolling-eyes"></i></a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="#"> <i class="far fa-sad-tear"></i></a>
+										<a class="nav-link" href="#"> <i data-toggle="tooltip" title="Sad"  class="far fa-sad-tear"></i></a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="#"><i class="far fa-angry"></i></a>
+										<a class="nav-link" href="#"><i data-toggle="tooltip" title="Angry"  class="far fa-angry"></i></a>
 									</li>
 								</ul>
 							</div>
@@ -343,23 +343,23 @@
 						
 					</div>
 					<div class="col-md-5">
-						<div class="row">
+					<div class="row">
 							<div class="col-12 mt-2">
 								<ul class="nav socialcons-timeline share-icons  pb-2 text-center">
 									<li class="nav-item">
-										<a class="nav-link active " href="#"><i class="far fa-smile-beam "></i></a>
+										<a class="nav-link active " href="#"><i data-toggle="tooltip" title="Love" class="far fa-smile-beam "></i></a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="#"><i class="far fa-surprise"></i></a>
+										<a class="nav-link" href="#"><i data-toggle="tooltip" title="Surprise" class="far fa-surprise"></i></a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="#"> <i class="far fa-meh-rolling-eyes"></i></a>
+										<a class="nav-link" href="#"> <i data-toggle="tooltip" title="Meh"  class="far fa-meh-rolling-eyes"></i></a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="#"> <i class="far fa-sad-tear"></i></a>
+										<a class="nav-link" href="#"> <i data-toggle="tooltip" title="Sad"  class="far fa-sad-tear"></i></a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="#"><i class="far fa-angry"></i></a>
+										<a class="nav-link" href="#"><i data-toggle="tooltip" title="Angry"  class="far fa-angry"></i></a>
 									</li>
 								</ul>
 							</div>

@@ -160,5 +160,12 @@ $('#sidebar').toggleClass('active');
 });
 });
 </script>
+
+<script>
+  $(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
+
+</script>
 </body>
 </html>

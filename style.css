@@ -646,3 +646,13 @@ a.no-underline:hover {
 .bigger-font {
     font-size: larger;
 }
+
+.tooltip-inner {
+    max-width: 200px;
+    padding: 4px 9px;
+    font-weight: 600;
+    color: #000;
+    text-align: center;
+    background-color: #fff;
+    border-radius: .25rem;
+}
