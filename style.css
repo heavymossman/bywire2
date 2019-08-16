@@ -641,6 +641,10 @@ a.no-underline:hover {
 
 .comments-bk {
     background-color: #dedede;
+    box-shadow: 0 5px 15px 0px rgba(43, 43, 43, 0.3);
+    background-clip: padding-box;
+    outline: none;
+
 }
 
 .bigger-font {
