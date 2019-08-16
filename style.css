@@ -696,3 +696,7 @@ a.no-underline:hover {
 .btn {
     text-transform: uppercase;
     }
+
+    .not-registered {
+        font-size: 1.3rem;
+    }

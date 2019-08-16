@@ -12,7 +12,7 @@
     <div class="col-md-6 p-5">
 
 
-        <h2>Login</h2>
+        <h2>Login <span class="not-registered"><small><em>Not registered yet? <a href="signup.php">Click here to create a FREE acount</a>.</em></small></span></h2>
     <hr />
     <div class="row">
   <div class="col-6">
