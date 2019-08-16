@@ -418,7 +418,46 @@
 
                             <div class="tab-pane fade" id="v-pills-edit-password" role="tabpanel" aria-labelledby="v-pills-edit-password-tab">
 
-                               EDIT PASSWORD
+
+                            <div class="row">
+  <div class="col-1"></div>
+    <div class="col-10">
+
+
+
+
+
+                            <form>
+                            <div class="form-group">
+    <label for="exampleInputPassword1">Current password</label>
+    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+  </div>
+  <div class="form-group">
+    <label for="exampleInputPassword1">New password</label>
+    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+  </div>
+  <div class="form-group">
+    <label for="exampleInputPassword1">Confirm new password</label>
+    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+</div>
+  
+  <button type="submit" class="btn btn-success">CHANGE</button>
+
+
+
+
+
+
+
+</form>
+
+
+<div class="col-1"></div></div></div>
+
+
+
+
+
                             </div>
 
                             <div class="tab-pane fade" id="v-pills-wallet" role="tabpanel" aria-labelledby="v-pills-wallet-tab">
@@ -682,6 +721,10 @@ PUBLISHERS PORTAL
 
                             
                             <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
+
+
+
+                            
 
                                 <form id="contact-form" method="post" action="contact.php" role="form">
 
