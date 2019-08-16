@@ -661,3 +661,38 @@ a.no-underline:hover {
     border-radius: .25rem;
 }
 
+
+
+
+.btn-facebook {
+    color: #fff;
+    background-color: #3b5998;
+    border-color: rgba(0,0,0,0.2);
+    }
+    .btn-facebook:hover {
+    color: #fff;
+    background-color: #1f3052;
+    border-color: rgba(0,0,0,0.2);
+    }
+    .btn-google {
+    color: #fff;
+    background-color: #dd4b39;
+    border-color: rgba(0,0,0,0.2);
+    }
+    .btn-google:hover {
+    color: #fff;
+    background-color: #ac4033;
+    border-color: rgba(0,0,0,0.2);
+    }
+    .btn-social {
+    position: relative;
+    padding-left: 20px;
+    text-align: left;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    }
+
+.btn {
+    text-transform: uppercase;
+    }

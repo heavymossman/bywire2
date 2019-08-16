@@ -14,9 +14,15 @@
 
         <h2>Login</h2>
     <hr />
-
+    <div class="row">
+  <div class="col-6">
+    <button class="btn btn-social btn-facebook btn-block mb-1" href="#" role="button"><i class="fab fa-facebook-f mr-2"></i> <span class="hidden-mobile">Login with</span> Facebook</button></div>
+    <div class="col-6">
+    <button class="btn btn-social btn-google btn-block mb-1" href="#" role="button"><i class="fab fa-google mr-2"></i> <span class="hidden-mobile">Login with</span> Google</button></div>
+    </div>
+    <h5 class="mt-3">Or</h5>
 <form>
-  <div class="form-group mt-5">
+  <div class="form-group mt-3">
     <label for="exampleInputEmail1">Email address</label>
     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
     <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
