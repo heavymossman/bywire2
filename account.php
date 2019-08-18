@@ -486,6 +486,85 @@
 					PUBLISHERS PORTAL
 				</div>
 				<div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
+
+        <h2 class="py-2 mt-1">Compose</h2>
+
+
+          <div class="row ">
+            <div class="col">
+
+            <div class="row email ">
+        <div class="col-1 mt-1">
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+            <label class="form-check-label" for="defaultCheck1">
+            </label>
+          </div>
+        </div>
+        <div class="col-4 mt-1">
+          <p><a href=#>The Economist</a></p>
+        </div>
+        <div class="col-5 mt-1">
+        <p><a href=#>Can we dicuss doing something with maths?</a></p>
+        </div>
+        <div class="col-2 mt-1">
+        <p><a href=#> 3:23 AM</a></p>
+        </div>
+      </div>
+
+
+      <div class="row email unread">
+        <div class="col-1 mt-1">
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+            <label class="form-check-label" for="defaultCheck1">
+            </label>
+          </div>
+        </div>
+        <div class="col-4 mt-1">
+          <p><a href=#>The Economist</a></p>
+        </div>
+        <div class="col-5 mt-1">
+        <p><a href=#>Can we dicuss doing something with maths?</a></p>
+        </div>
+        <div class="col-2 mt-1">
+        <p><a href=#> 3:23 AM</a></p>
+        </div>
+      </div>
+
+
+
+      <div class="row email unread">
+        <div class="col-1 mt-1">
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+            <label class="form-check-label" for="defaultCheck1">
+            </label>
+          </div>
+        </div>
+        <div class="col-4 mt-1">
+          <p><a href=#>The Economist</a></p>
+        </div>
+        <div class="col-5 mt-1">
+        <p><a href=#>Can we dicuss doing something with maths?</a></p>
+        </div>
+        <div class="col-2 mt-1">
+        <p><a href=#> 3:23 AM</a></p>
+        </div>
+      </div>
+
+
+      
+
+
+
+
+            </div>
+            
+          </div>
+
+          <h2 class="py-2 mt-5">Compose</h2>
+
 					<form id="contact-form" method="post" action="contact.php" role="form">
 						<div class="messages"></div>
 						<div class="controls">

@@ -700,3 +700,18 @@ a.no-underline:hover {
     .not-registered {
         font-size: 1.3rem;
     }
+
+    .unread {
+        font-weight: 700;
+    }
+
+.email {
+    border-top: solid 1px #e6e6e6;
+    padding: 0.5rem;
+}
+
+.email:hover {
+    border-top: solid 1px #e6e6e6;
+    padding: 0.5rem;
+    background-color: rgb(221, 221, 221);
+}
