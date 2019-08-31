@@ -619,6 +619,10 @@ a.no-underline:hover {
     text-decoration: none!important;
 }
 
+a.underline {
+    text-decoration: underline!important;
+}
+
 .btn-default {
     background-color: grey;
     color: white;

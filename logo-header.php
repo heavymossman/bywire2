@@ -11,7 +11,7 @@
 						</span>
 						<ul class="navbar-nav mr-auto mt-2 mt-lg-0 p-2 hidden-mobile">
 							<li class="nav-item">
-								<a class="nav-link px-4" href="#">Learn & Earn</a>
+								<a class="nav-link px-4" href="read_earn.php">Read News & Earn Money</a>
 							</li>
 							<li class="nav-item">
 								<a class="nav-link px-4" href="#">About Us</a>
