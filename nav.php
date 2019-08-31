@@ -74,7 +74,7 @@
 						<a href="profile-page.php">PROFILE</a>
 					</li>
 					<li>
-						<a href="#">ABOUT</a>
+						<a href="about.php">ABOUT</a>
 					</li>
 					<li>
 						<a href="account.php">ACCOUNT</a>

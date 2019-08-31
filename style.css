@@ -428,32 +428,32 @@ footer {
     right: 20px;
     margin-left: 20px;
     max-width: 400px;
-  }
+}
   
-  .callout-header {
+.callout-header {
     padding: 25px 15px;
     background-color: #e30613;
     color: white;
-  }
+}
   
-  .callout-container {
+.callout-container {
     padding: 25px;
     background-color: black;
     color: rgb(250, 250, 250)
-  }
+}
   
-  .closebtn {
+.closebtn {
     position: absolute;
     top: 5px;
     right: 15px;
     color: white;
     font-size: 30px;
     cursor: pointer;
-  }
+}
   
-  .closebtn:hover {
+.closebtn:hover {
     color: lightgrey;
-  }
+}
   
 a.tiny-font {
     font-size: 80%;
@@ -714,4 +714,9 @@ a.no-underline:hover {
     border-top: solid 1px #e6e6e6;
     padding: 0.5rem;
     background-color: rgb(221, 221, 221);
+}
+
+
+.lead {
+    font-weight: 700;
 }
