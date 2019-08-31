@@ -14,7 +14,7 @@
 								<a class="nav-link px-4" href="read_earn.php">Read News & Earn Money</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link px-4" href="#">About Us</a>
+								<a class="nav-link px-4" href="about.php">About Us</a>
 							</li>
 						</ul>
 						<form class="form-inline my-2 my-lg-0 hidden-mobile">
