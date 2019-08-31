@@ -7,7 +7,7 @@
          <p class="mb-0"><small>Reward</small></p>
          <h1 class=""><img src="images/wirebit-icon-black.png">2</h1>
          <hr class="red">
-         <p><small><a href="#" class="tiny-font">About Rewards</a></small></p>
+         <p><small><a href="#" class="tiny-font" data-toggle="tooltip" data-placement="bottom" title="ByWire Rewards Readers each time they read, listen or watch anything on our network, this shows the amount of Wirebit that will be transferred to you once you finish reading this article">About Rewards</a></small></p>
       </div>
       <div class="col-1">
       </div>

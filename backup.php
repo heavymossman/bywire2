@@ -318,10 +318,12 @@
     <div class="col-sm-10">
 
 
-    <div class="form-check form-check">
+<div class="form-check form-check">
   <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
   <label class="form-check-label" for="inlineCheckbox1">Breaking News</label>
 </div>
+
+
 <div class="form-check form-check">
   <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
   <label class="form-check-label" for="inlineCheckbox2">Politics</label>
