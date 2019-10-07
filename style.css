@@ -724,3 +724,9 @@ a.underline {
 .lead {
     font-weight: 700;
 }
+
+
+.modal-header {
+    background-color: #088711;
+    color: white;
+}
