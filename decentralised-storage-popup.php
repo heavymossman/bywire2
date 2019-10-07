@@ -39,7 +39,7 @@
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title text-center" id="exampleModalCenterTitle"><i class="fas fa-lock"></i>&nbsp;&nbsp;&nbsp; Bywire Blockchain Validation Complete</h5>
+        <h5 class="modal-title text-center" id="exampleModalCenterTitle"><i class="fas fa-lock"></i>&nbsp;&nbsp;&nbsp; Bywire Blockchain Validation Confirmed</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true"><i style="color:white;" class="fas fa-window-close"></i></span>
         </button>
