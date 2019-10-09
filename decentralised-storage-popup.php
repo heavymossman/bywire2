@@ -51,7 +51,7 @@
 
                 <div class="col-md-5 small text-center">
 
-                        <img src="images/green-tick.png" class="img-fluid">
+                        <img src="images/green-tick.png" class="img-fluid mb-2">
 
 
 
@@ -146,7 +146,7 @@
     <div class="card-header text-center" id="headingThree">
       <h2 class="mb-0">
         <button class="btn btn-link-blockchain collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          Content & Timestamp Validation Checker
+        <span class="hidden-mobile">Content & Timestamp</span> Validation Checker
         </button>
       </h2>
     </div>
@@ -166,7 +166,7 @@
   </div>
  
   <div class="col-3">
-  <button type="submit" class="btn btn-block btn-primary mb-2">Validate</button>
+  <button type="submit" class="btn btn-block btn-primary mb-2"><span class="hidden-mobile">Validate</span><span class="hidden-desktop"><i class="fas fa-sync"></i></span></button>
   </div> </div>
 </form>
 
@@ -179,7 +179,7 @@
     <div class="card-header text-center" id="headingFour">
       <h2 class="mb-0">
         <button class="btn btn-link-blockchain" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-          Bywire Article Decentralised Node Map
+          <span class="hidden-mobile">Bywire Article Decentralised</span> Node Map
         </button>
       </h2>
     </div>
