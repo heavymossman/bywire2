@@ -146,7 +146,7 @@
     <div class="card-header text-center" id="headingThree">
       <h2 class="mb-0">
         <button class="btn btn-link-blockchain collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          Timestamp Validation Checker
+          Content & Timestamp Validation Checker
         </button>
       </h2>
     </div>
@@ -166,9 +166,12 @@
   </div>
  
   <div class="col-3">
-  <button type="submit" class="btn btn-block btn-primary mb-2">Confirm</button>
+  <button type="submit" class="btn btn-block btn-primary mb-2">Validate</button>
   </div> </div>
 </form>
+
+
+https://media2.giphy.com/media/9tA6H1madRvUc/source.gif
 
       </div>
     </div>
