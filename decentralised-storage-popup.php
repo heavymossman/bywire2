@@ -45,34 +45,92 @@
         </button>
       </div>
       <div class="modal-body">
-      <div class="accordion" id="accordionExample">
+
+            <div class="container">
+                <div class="row  mt-3">
+
+                <div class="col-md-5 small text-center">
+
+                        <img src="images/green-tick.png" class="img-fluid">
+
+
+
+                </div>
+
+                <div class="col-md-7 small">
+
+                <p class="mb-2"><strong>This article is verified and stored on the blockchain.</strong></p>
+
+                <p class="mb-1">Publisher: <a class="underline" href="#">bywirenews</a></p>
+                  <p class="mb-1">Authors: <a class="underline" href="#">lizpipper</a>, <a class="underline" href="#">owenjones</a>, <a class="underline" href="#">samgallagher</a></p>
+                  <p class="mb-1">Last modified: 01/04/19 20:58</p>
+                  <p class="mb-2">First published: 01/04/19 17:12</p>
+
+                  <p>The article you are reading is 100% as the author and publisher intended.
+                  The content, images or links have not been edited since the last recorded revision, and no third parties have made any unauthorized changes. 
+                  </p>
+
+                  <p class="mt-2"><a class="underline" href="#">Learn why & how we verify on the blockchain</a></p>
+
+                  
+
+                       
+
+                  </div>
+</div>  
+
+
+      <div class="accordion mt-3 small" id="accordionExample">
   <div class="card">
-    <div class="card-header" id="headingOne">
+    <div class="card-header text-center" id="headingOne">
       <h2 class="mb-0">
-        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        <button class="btn btn-link-blockchain" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
           Revisions
         </button>
       </h2>
     </div>
 
+
+
+
+
+    
+
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
       <div class="card-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+
+            <div class="row">
+               <div class="col-6"><a class="underline" href="#">28/03/19 14:38</a> Edited by <a class="underline" href="#">lizpipper</a></div>
+               <div class="col-6"><a class="underline" href="#">27/03/19 19:12</a> Edited by <a class="underline" href="#">owenjones</a></div>
+            </div>
+
+            <div class="row">
+               <div class="col-6"><a class="underline" href="#">28/03/19 14:38</a> Edited by <a class="underline" href="#">lizpipper</a></div>
+               <div class="col-6"><a class="underline" href="#">27/03/19 19:12</a> Edited by <a class="underline" href="#">owenjones</a></div>
+         
+            </div>
+            <div class="row">
+            <div class="col-6"><a class="underline" href="#">25/03/19 02:18</a> Edited by <a class="underline" href="#">samgallagher</a></div>
+               <div class="col-6"><a class="underline" href="#">25/03/19 02:18</a> Edited by <a class="underline" href="#">samgallagher</a></div>
+               </div>
       </div>
     </div>
   </div>
   <div class="card">
-    <div class="card-header" id="headingTwo">
+    <div class="card-header text-center" id="headingTwo">
       <h2 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        <button class="btn btn-link-blockchain collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
           Raw Input
         </button>
       </h2>
     </div>
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
       <div class="card-body">
-
-
+         <p>IPFS Article Hash: Qma5m6FmgbkXBrum7kMw8gX5qBDSpdKh3j1LRYW88zWB8T</p>
+         <p>EOSIO TX: c841fe2cfb94f533d4673b3e0481d60dc4d06502eb5d63434aee5073a8152542</p>
+         <p>Block: 83,526,549</p>
+         <p>Contract: wirebittoken</p>
+         <p>Block Time: Oct-08-2019, 10:05:49 PM BST</p>
       <pre><code><>
 
 {"type":"WebArticleTimestamp","version":"0.1.1","title":"LynxChain Name Reservation Has Begun. Grab Yours!","content":"<!-- wp:paragraph -->\n<p>If you plan to participate in the<a rel=\"noreferrer noopener\" aria-label=\" LynxChain (opens in a new tab)\" href=\"https://www.eoswriter.io/161572_the-path-to-real-adoption-lynx-chain.eos\" target=\"_blank\"> LynxChain</a> when it goes live, or just if you want to grab your name on it for free, you should go to <a rel=\"noreferrer noopener\" aria-label=\"this website (opens in a new tab)\" href=\"http://lynxwallet.io/reserve\" target=\"_blank\">this website</a> and do it now. LynxChain announced today that it opened up unique names for reservations. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:core-embed/twitter {\"url\":\"https://twitter.com/Lynxwallet/status/1177261953032445952?s=20\",\"type\":\"rich\",\"providerNameSlug\":\"twitter\",\"className\":\"\"} -->\n<figure class=\"wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter\"><div class=\"wp-block-embed__wrapper\">\nhttps://twitter.com/Lynxwallet/status/1177261953032445952?s=20\n</div></figure>\n<!-- /wp:core-embed/twitter -->\n\n<!-- wp:paragraph -->\n<p>LynxChain is a new chain that is being launched by Fred Krueger and his team behind the popular Lynx Wallet. Some of its main features differentiating it from EOS and other chains are:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><li>Free accounts</li><li>Simple 3 character+ alphanumeric account names </li><li>Simple UX</li><li>Avatars and social layer directly on the blockchain</li><li>Possibility to verify your account (think Twitter blue checkmark)</li></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>To get more details you can read the whitepaper <a rel=\"noreferrer noopener\" aria-label=\"here (opens in a new tab)\" href=\"https://medium.com/lynxwallet/lynx-chain-whitepaper-1-0-6869fd9582c3\" target=\"_blank\">here</a>.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>So go ahead and grab your account name while the supplies last. It cost you absolutely nothing. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image -->\n<figure class=\"wp-block-image\"><img src=\"https://pbs.twimg.com/media/EFaQPW-W4AAXfTT?format=jpg&amp;name=medium\" alt=\"Image\"/></figure>\n<!-- /wp:image -->","date":"2019-09-26T18:57:38+00:00","url":"https://www.eoswriter.io/161892_lynxchain-name-reservation-has-begun-grab-yours.eos"}
@@ -85,20 +143,44 @@
     </div>
   </div>
   <div class="card">
-    <div class="card-header" id="headingThree">
+    <div class="card-header text-center" id="headingThree">
       <h2 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        <button class="btn btn-link-blockchain collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
           Timestamp Validation Checker
         </button>
       </h2>
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
       <div class="card-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+
+      <p><strong>Check article validation on the IPFS Bywire Decentralised News Network</strong></p>
+      <p>Article title: 'Deep state PLOT to kill Brexit' Johnson delivers CRUCIAL reason why exit can't be halted</p>
+      <p>IPFS Article Hash: Qma5m6FmgbkXBrum7kMw8gX5qBDSpdKh3j1LRYW88zWB8T</p>
+
+      <form>
+
+ 
+     <div class="row"><div class="col-9">
+    <label for="inputPassword2" class="sr-only">IPFS HASH DECODER</label>
+    <input type="input" class="form-control" id="inputPassword2" value="Qma5m6FmgbkXBrum7kMw8gX5qBDSpdKh3j1LRYW88zWB8T">
+  </div>
+ 
+  <div class="col-3">
+  <button type="submit" class="btn btn-block btn-primary mb-2">Confirm</button>
+  </div> </div>
+</form>
+
       </div>
     </div>
   </div>
 </div>
+
+</div>
+
+
+
+
+
       </div>
      <!-- <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>

@@ -727,6 +727,16 @@ a.underline {
 
 
 .modal-header {
-    background-color: #088711;
+    background-color: #01b801;
     color: white;
+}
+
+.card-header {
+    background-color: white;
+}
+
+.btn-link-blockchain {
+    font-weight: 600;
+    color: #10b310;
+    background-color: transparent;
 }
