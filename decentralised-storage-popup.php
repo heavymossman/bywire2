@@ -171,10 +171,29 @@
 </form>
 
 
-https://media2.giphy.com/media/9tA6H1madRvUc/source.gif
 
       </div>
     </div>
+
+    <div class="card">
+    <div class="card-header text-center" id="headingFour">
+      <h2 class="mb-0">
+        <button class="btn btn-link-blockchain" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+          Bywire Article Decentralised Node Map
+        </button>
+      </h2>
+    </div>
+
+    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+      <div class="card-body">
+
+      <img src="https://cdn2.vox-cdn.com/assets/4413993/2014-05-06_09_44_53.gif" class="img-fluid mx-auto d-block">
+      </div>
+    </div>
+  </div>
+
+
+
   </div>
 </div>
 
