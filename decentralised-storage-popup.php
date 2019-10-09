@@ -70,7 +70,7 @@
                   The content, images or links have not been edited since the last recorded revision, and no third parties have made any unauthorized changes. 
                   </p>
 
-                  <p class="mt-2"><a class="underline" href="#">Learn why & how we verify on the blockchain</a></p>
+                  <p class="mt-2"><a class="underline" href="#">Learn how & why we verify on the blockchain</a></p>
 
                   
 
