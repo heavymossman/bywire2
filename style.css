@@ -1,9 +1,6 @@
-
-
-  /*
+/*
     DEMO STYLE
 */
-
 
 a,
 a:focus {
@@ -32,6 +29,7 @@ a:focus {
     border-bottom: 1px dashed #ddd;
     margin: 40px 0;
 }
+
 
 /* ---------------------------------------------------
     SIDEBAR STYLE
@@ -129,6 +127,7 @@ a.article:hover {
     color: #fff !important;
 }
 
+
 /* ---------------------------------------------------
     CONTENT STYLE
 ----------------------------------------------------- */
@@ -138,6 +137,7 @@ a.article:hover {
     min-height: 100vh;
     transition: all 0.3s;
 }
+
 
 /* ---------------------------------------------------
     MEDIAQUERIES
@@ -155,15 +155,11 @@ a.article:hover {
     }
 }
 
-
-
-
-
-
 .main {
     width: 50%;
     margin: 50px auto;
 }
+
 
 /* Bootstrap 4 text input with search icon */
 
@@ -183,20 +179,22 @@ a.article:hover {
     color: #aaa;
 }
 
-
-
-h1,h2,h3,h4,h5,h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     /*font-family:  Montserrat, sans-serif;*/
     font-family: 'Playfair Display', serif;
     font-weight: 700;
+}
 
-  }
-  body, footer {
+body,
+footer {
     /*font-family: 'News Cycle',sans-serif;*/
     font-family: 'Noticia Text', serif;
-  }
-
-
+}
 
 .black-bk {
     background-color: black;
@@ -230,25 +228,25 @@ h1,h2,h3,h4,h5,h6 {
     .container {
         max-width: 1350px;
     }
-  }
+}
 
-  .small-text {
-      font-size: 90%;
-  }
+.small-text {
+    font-size: 90%;
+}
 
-  .grey-text {
-      color: #909090
-  }
+.grey-text {
+    color: #909090
+}
 
-  a.white {
-      color: white;
-  }
+a.white {
+    color: white;
+}
 
-  .red-text {
-      color: #ff4b4b;
-  }
+.red-text {
+    color: #ff4b4b;
+}
 
-  a.red-text {
+a.red-text {
     color: #ff4b4b;
 }
 
@@ -256,17 +254,17 @@ a.black-text {
     color: #000;
 }
 
-  .green-text {
-      color: #0dd80d;
-  }
-
-  a.green-text {
+.green-text {
     color: #0dd80d;
 }
 
-  .white-text {
-        color: white;
-  }
+a.green-text {
+    color: #0dd80d;
+}
+
+.white-text {
+    color: white;
+}
 
 a.white-text {
     color: white;
@@ -275,14 +273,12 @@ a.white-text {
 a.white-text:hover {
     color: white;
     text-decoration: underline;
-} 
-
-.btn-lg {
-    min-width: 200px;;
 }
 
-
-
+.btn-lg {
+    min-width: 200px;
+    ;
+}
 
 .bg-white {
     background-color: white;
@@ -292,7 +288,6 @@ a.white-text:hover {
     .hidden-mobile {
         display: none!important;
     }
-
     .mobile-text-center {
         text-align: center;
     }
@@ -302,7 +297,6 @@ a.white-text:hover {
     .hidden-desktop {
         display: none!important;
     }
-
 }
 
 .form-control {
@@ -314,16 +308,14 @@ a.white-text:hover {
     background: #1d2023;
 }
 
-
-
-
-a.article, a.article:hover {
+a.article,
+a.article:hover {
     background: #ff4b4b !important;
     color: #fff !important;
 }
 
-
-#sidebar ul li.active>a, a[aria-expanded="true"] {
+#sidebar ul li.active>a,
+a[aria-expanded="true"] {
     color: #fff;
     background: #ff4b4b;
 }
@@ -332,17 +324,17 @@ hr {
     margin-top: 1rem;
     margin-bottom: 1rem;
     border: 0;
-    border-top: 2px solid rgba(0,0,0,0.7);
+    border-top: 2px solid rgba(0, 0, 0, 0.7);
 }
 
 .thick-line {
     margin-top: 1.5rem;
-    border: 2px solid rgba(0,0,0,0.7);
+    border: 2px solid rgba(0, 0, 0, 0.7);
 }
 
 .thin-line {
     margin-top: 0.2rem;
-    border: 1px solid rgba(0,0,0,0.7);
+    border: 1px solid rgba(0, 0, 0, 0.7);
 }
 
 ul ul a {
@@ -353,7 +345,6 @@ ul ul a {
 
 #fp-hd {
     height: 50vh;
-    
 }
 
 #fp-hd-text {
@@ -362,7 +353,6 @@ ul ul a {
 }
 
 @media (min-width: 768px) {
-
     .marginSpecial {
         margin-top: 2rem;
         margin-left: 8rem;
@@ -370,7 +360,6 @@ ul ul a {
     .p-4-dk {
         padding: 1.5rem;
     }
-
 }
 
 @media (max-width: 768px) {
@@ -379,15 +368,12 @@ ul ul a {
         font-weight: 300;
         line-height: 1.2;
     }
-
     h1 {
         font-size: 2rem;
     }
-
     h3 {
         font-size: 1rem;
     }
-
 }
 
 hr.mobile-fp {
@@ -395,7 +381,6 @@ hr.mobile-fp {
 }
 
 hr.red {
-
     border-top: 1.5px solid rgb(227, 6, 19);
 }
 
@@ -413,14 +398,12 @@ footer {
     .big-desktop-margin {
         margin-top: 10rem;
     }
-
 }
 
 .black-bk-transparent {
     background-color: rgba(0, 0, 0, 0.8);
     color: white;
 }
-
 
 .callout {
     position: fixed;
@@ -429,19 +412,19 @@ footer {
     margin-left: 20px;
     max-width: 400px;
 }
-  
+
 .callout-header {
     padding: 25px 15px;
     background-color: #e30613;
     color: white;
 }
-  
+
 .callout-container {
     padding: 25px;
     background-color: black;
     color: rgb(250, 250, 250)
 }
-  
+
 .closebtn {
     position: absolute;
     top: 5px;
@@ -450,11 +433,11 @@ footer {
     font-size: 30px;
     cursor: pointer;
 }
-  
+
 .closebtn:hover {
     color: lightgrey;
 }
-  
+
 a.tiny-font {
     font-size: 80%;
     color: #696969
@@ -468,16 +451,15 @@ a.tiny-font {
 
 .round-borders-right {
     border-top-right-radius: 6rem;
-    border-bottom-right-radius:6rem;
+    border-bottom-right-radius: 6rem;
     border: white;
 }
 
-
-.circle{
-    width:40px;
-    height:40px;
-    border-radius:20px;
-    background:#e30613;
+.circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background: #e30613;
 }
 
 .round-borders {
@@ -490,14 +472,11 @@ a.tiny-font {
     border: white;
 }
 
-
-
 .btn-bywire {
     color: #fff;
     background-color: rgba(227, 6, 19, 0.9);
     border-color: rgba(227, 6, 19, 0.9);
 }
-
 
 .btn-bywire:hover {
     color: #fff;
@@ -580,7 +559,9 @@ a.tiny-font {
     border-color: #007bff;
 }
 
-.btn-info:not(:disabled):not(.disabled).active, .btn-info:not(:disabled):not(.disabled):active, .show>.btn-info.dropdown-toggle {
+.btn-info:not(:disabled):not(.disabled).active,
+.btn-info:not(:disabled):not(.disabled):active,
+.show>.btn-info.dropdown-toggle {
     color: #fff;
     background-color: #0f606d;
     border-color: #10707f;
@@ -593,9 +574,9 @@ a.tiny-font {
 }
 
 .btn-bywire-clear:hover {
-        color: #fff;
-        background-color: rgba(227, 6, 19, 0.9);
-        border-color: rgba(227, 6, 19, 0.9);
+    color: #fff;
+    background-color: rgba(227, 6, 19, 0.9);
+    border-color: rgba(227, 6, 19, 0.9);
 }
 
 @media (min-width: 576px) {
@@ -610,7 +591,8 @@ a.tiny-font {
     color: white;
 }
 
-.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
     color: #fff;
     background-color: #5c5c5c;
 }
@@ -648,7 +630,6 @@ a.underline {
     box-shadow: 0 5px 15px 0px rgba(43, 43, 43, 0.3);
     background-clip: padding-box;
     outline: none;
-
 }
 
 .bigger-font {
@@ -665,49 +646,50 @@ a.underline {
     border-radius: .25rem;
 }
 
-
-
-
 .btn-facebook {
     color: #fff;
     background-color: #3b5998;
-    border-color: rgba(0,0,0,0.2);
-    }
-    .btn-facebook:hover {
+    border-color: rgba(0, 0, 0, 0.2);
+}
+
+.btn-facebook:hover {
     color: #fff;
     background-color: #1f3052;
-    border-color: rgba(0,0,0,0.2);
-    }
-    .btn-google {
+    border-color: rgba(0, 0, 0, 0.2);
+}
+
+.btn-google {
     color: #fff;
     background-color: #dd4b39;
-    border-color: rgba(0,0,0,0.2);
-    }
-    .btn-google:hover {
+    border-color: rgba(0, 0, 0, 0.2);
+}
+
+.btn-google:hover {
     color: #fff;
     background-color: #ac4033;
-    border-color: rgba(0,0,0,0.2);
-    }
-    .btn-social {
+    border-color: rgba(0, 0, 0, 0.2);
+}
+
+.btn-social {
     position: relative;
     padding-left: 20px;
     text-align: left;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    }
+}
 
 .btn {
     text-transform: uppercase;
-    }
+}
 
-    .not-registered {
-        font-size: 1.3rem;
-    }
+.not-registered {
+    font-size: 1.3rem;
+}
 
-    .unread {
-        font-weight: 700;
-    }
+.unread {
+    font-weight: 700;
+}
 
 .email {
     border-top: solid 1px #e6e6e6;
@@ -720,11 +702,9 @@ a.underline {
     background-color: rgb(221, 221, 221);
 }
 
-
 .lead {
     font-weight: 700;
 }
-
 
 .modal-header {
     background-color: #01b801;
@@ -739,4 +719,9 @@ a.underline {
     font-weight: 600;
     color: #10b310;
     background-color: transparent;
+}
+
+.footer-article {
+    background-color: rgb(255, 255, 255);
+    color: #000000;
 }
