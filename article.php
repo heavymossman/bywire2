@@ -177,10 +177,13 @@
          <p style="font-size: 6rem; color: #505050"><i class="fas fa-circle"></i></p>
       </div>
       <div class="col-md-7 mt-5">
-         <img src="images/article-demo-image-2000x1500.png" class="img-fluid">
-         <p class="img-creds"><small>The Trump administration called China a currency manipulator after the yuan weakened past the psychologically important level of 7 to the dollar. Here’s what this means for trade talks and the markets. Image: Associated Press
-</small></p>
-
+         <figure>
+            <img src="images/article-demo-image-2000x1500.png" class="img-fluid">
+            <figcaption>
+               <p class="img-creds"><small>The Trump administration called China a currency manipulator after the yuan weakened past the psychologically important level of 7 to the dollar. Here’s what this means for trade talks and the markets. Image: Associated Press
+            </figcaption>
+         </figure>
+      </small></p>
       </div>
    </div>
 </div>
